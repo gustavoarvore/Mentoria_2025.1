@@ -3,13 +3,7 @@ import requests
 import json
 import os
 
-# Configurações iniciais
-# Define o caminho do arquivo e as palavras-chave para busca   
-SETTINGS = {
-    "file_path": "./data/vagas_gupy.json",
-    "palavras_chave": input("Digite a vaga que deseja: ").split(","),
-    "offsets": range(0, 200)  
-}
+from config.settings import SETTINGS
 
 # Função para buscar vagas na Gupy
 # Faz uma requisição para a API da Gupy com as palavras-chave e offsets definidos
@@ -31,7 +25,6 @@ def buscar_vagas():
 # Processa a resposta JSON e extrai as vagas
             dados = resposta.json()
             vagas = dados.get("data", [])
-
             todas_vagas.extend(vagas)
 
 # Salva as vagas encontradas em um arquivo JSON
@@ -43,4 +36,3 @@ def buscar_vagas():
 
 # Exibe o número de vagas encontradas e salva o arquivo
     print(f"\nTotal de vagas encontradas: {len(todas_vagas)}")
-buscar_vagas()
