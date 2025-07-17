@@ -25,7 +25,6 @@ def buscar_vagas():
 # Processa a resposta JSON e extrai as vagas
             dados = resposta.json()
             vagas = dados.get("data", [])
-
             todas_vagas.extend(vagas)
 
 # Salva as vagas encontradas em um arquivo JSON
@@ -37,4 +36,3 @@ def buscar_vagas():
 
 # Exibe o número de vagas encontradas e salva o arquivo
     print(f"\nTotal de vagas encontradas: {len(todas_vagas)}")
-buscar_vagas()
