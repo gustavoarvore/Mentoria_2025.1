@@ -8,8 +8,6 @@ from typing import Dict
 Json = Dict[str, str]
 
 def buscar_vagas(vaga: str) -> Json:
-    if not isinstance(vaga, str):
-        return print("A palavra-chave deve ser uma string.")
     
     todas_vagas = []
     SETTINGS["file_path"] = os.path.join("data", "vagas_gupy.json")
@@ -21,20 +19,22 @@ def buscar_vagas(vaga: str) -> Json:
         for offset in SETTINGS["offset"]:
             url = f'https://portal.api.gupy.io/api/job?name={vaga}&offset={offset}&limit=10'
             resposta = requests.get(url)
-            if resposta.status_code == 200:
-                dados = resposta.json()
+            if resposta.status_code != 200:
+                break
+            
+            dados = resposta.json()
                 
-                if "data" in dados:
-                    print(f"Vagas encontradas: {len(dados['data'])}")
-                    todas_vagas.extend(dados.get("data", []))
-
+            if "data" in dados:
+                print(f"Vagas encontradas: {len(dados['data'])}")
+                todas_vagas.extend(dados.get("data", []))
+            
     total_vagas = len(todas_vagas)
     resultado = {
         "data": todas_vagas,
         "pagination": {
-            "offset": SETTINGS["offset"][0],  # Use o primeiro offset usado
-            "limit": 10,                       # O limite definido
-            "total": total_vagas               # Total de vagas encontradas
+            "offset": SETTINGS["offset"][0],  
+            "limit": 10,                       
+            "total": total_vagas               
         }
     }
     
