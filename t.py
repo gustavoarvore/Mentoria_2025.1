@@ -1,3 +1,5 @@
-from src.config.settings import SETTINGS
+import pandas as pd
 
-print(SETTINGS)
+df = pd.read_json('./data/vagas_gupy.json')
+
+print(df)

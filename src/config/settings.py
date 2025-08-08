@@ -1,6 +1,10 @@
-# Define o caminho do arquivo e as palavras-chave para busca   
+total = 10
+offset = 0 
+for _ in range(0, total, 10):
+    offset += 10
+    
 SETTINGS = {
     "file_path": "./data/vagas_gupy.json",
-    "palavras_chave": ["dados"],
-    "offsets": [0, 100, 200]
+    "palavras_chave": ["dados"], 
+    "offset": [0, total, 10]
 }
