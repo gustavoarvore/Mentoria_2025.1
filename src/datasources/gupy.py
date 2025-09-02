@@ -7,6 +7,16 @@ from typing import Dict
 
 Json = Dict[str, str]
 
+def buscando_valor_total() -> int:
+
+    url = 'https://portal.api.gupy.io/api/job?name=dados&offset=0&limit=10'
+    resposta = requests.get(url)
+    
+    if resposta.status_code == 200:
+        dados = resposta.json()
+        return dados.get("pagination").get("total", 0)
+    return 0
+
 def buscar_vagas(vaga: str) -> Json:
     
     todas_vagas = []
@@ -15,8 +25,11 @@ def buscar_vagas(vaga: str) -> Json:
 
     for palavra in SETTINGS["palavras_chave"]:
         print(f"\nBuscando vagas para: {palavra}")
-
-        for offset in SETTINGS["offset"]:
+        
+        total = buscando_valor_total()
+        offset = 0 
+        for _ in range(0, total, 10):
+    
             url = f'https://portal.api.gupy.io/api/job?name={vaga}&offset={offset}&limit=10'
             resposta = requests.get(url)
             if resposta.status_code != 200:
@@ -27,20 +40,9 @@ def buscar_vagas(vaga: str) -> Json:
             if "data" in dados:
                 print(f"Vagas encontradas: {len(dados['data'])}")
                 todas_vagas.extend(dados.get("data", []))
+
+            offset += 10
             
-    total_vagas = len(todas_vagas)
-    resultado = {
-        "data": todas_vagas,
-        "pagination": {
-            "offset": SETTINGS["offset"][0],  
-            "limit": 10,                       
-            "total": total_vagas               
-        }
-    }
     
     with open(SETTINGS["file_path"], "w", encoding="utf-8") as gupy:
-        json.dump(resultado, gupy, ensure_ascii=False, indent=2) 
-
-    print(f"\nTotal de vagas encontradas: {total_vagas}")
-
-    return resultado
+        json.dump(todas_vagas, gupy, ensure_ascii=False, indent=2) 
