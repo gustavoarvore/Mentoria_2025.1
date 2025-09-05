@@ -45,10 +45,11 @@ def buscar_vagas(vaga: str) -> Json:
             dados = resposta.json()
 
             if "data" in dados:
-                print(f"Vagas encontradas: {len(dados['data'])}")
                 todas_vagas.extend(dados.get("data", []))
             offset += 10
 
+    print(f"Vagas encontradas: {buscando_valor_total(palavra)}\n")
+    
 # STrecho de código quesalva as vagas em um arquivo JSON
     with open(SETTINGS["file_path"], "w", encoding="utf-8") as gupy:
         json.dump(todas_vagas, gupy, ensure_ascii=False, indent=2) 
