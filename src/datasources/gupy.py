@@ -11,9 +11,9 @@ from typing import Dict
 Json = Dict[str, str]
 
 # Função que busca o total de vagas como número inteiro
-def buscando_valor_total() -> int:
+def buscando_valor_total(palavra: str) -> int:
 
-    url = 'https://portal.api.gupy.io/api/job?name=dados&offset=0&limit=10'
+    url = f'https://portal.api.gupy.io/api/job?name={palavra}&offset=0&limit=10'
     resposta = requests.get(url)
 
     if resposta.status_code == 200:
@@ -32,7 +32,7 @@ def buscar_vagas(vaga: str) -> Json:
         print(f"\nBuscando vagas para: {palavra}")
 
 # Trecho de código que busca as vagas na API da Gupy 
-        total = buscando_valor_total()
+        total = buscando_valor_total(palavra)
         offset = 0 
         for _ in range(0, total, 10):
     
