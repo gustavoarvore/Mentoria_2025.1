@@ -161,29 +161,6 @@
     "careerPageUrl": "https://vemsersparker.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9725297,
-    "companyId": 295,
-    "name": "Pessoa Engenheira de Dados III (GAVB)",
-    "description": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Conheça o time da GAVBSomos especialistas em transformar dados em inteligência para impulsionar o sucesso dos nossos clientes. Com expertise em Data &amp; Analytics e um time de mais de 500 consultores, oferecemos soluções personalizadas que potencializam resultados e aceleram o crescimento das empresas do futuro.Responsabilidades e atribuiçõesProjetar pipelines para aquisição de dados em larga escala usando PySpark ou ferramentas de mercado.Implementar arquitetura de dados baseada em Lakehouse com S3 e Delta Lake.Automatizar testes e implantações com integração ao Devops.Gerenciar catálogo de dados, permissões e versionamento via Unity Catalog.Monitorar e otimizar jobs Spark em Databricks com foco em desempenho e custo.Requisitos e qualificaçõesDatabricks e Spark:&nbsp;Desenvolvimento de pipelines com PySpark e Spark SQL no ambiente Databricks, projetos com Delta Lake sobre Amazon S3, otimização de jobs Spark (ajuste de performance, particionamento, uso de Z-Order, cache) e experiência com Databricks Workflows para orquestração.AWS (ou Azure):&nbsp;Amazon S3 como data lake, e IAM e segurança em nível de bucket e cluster.Arquitetura e Plataforma de Dados:&nbsp;Arquitetura Lakehouse baseada em arquitetura medalhão (bronze, prata, ouro), assim como integração de múltiplas fontes: bancos relacionais, APIs, dados em lote e streaming e modelagem e versionamento com Delta Lake.DataOps e Governança:&nbsp;CI/CD com Databricks Repos, Azure DEVOPS, observabilidade com registro personalizado, CloudWatch e alertas, controle de qualidade de dados (Deequ, Grandes Expectativas ou soluções customizadas) e Catálogo Governança com Unity, RBAC e uso de tags.Linguagens e Ferramentas:&nbsp;Python e SQL avançados, experiência com JSON, Parquet, Avro, conhecimento em ferramentas de orquestração como Airflow (opcional) ou Databricks Workflows., bem como uso de notebooks colaborativos no ambiente Databricks.Habilidades interpessoais:&nbsp;Colaboração com tempos de produto, ciência de dados e engenharia e boa comunicação e documentação técnica em ambientes ágeis.Idioma:&nbsp;Inglês avançado.﻿Desejável:Streaming com Streaming Estruturado ou Kafka + Databricks.Uso do Snowflake como camada de consumo.Experiência com Infra as Code (Terraform para Databricks e AWS) e FinOps.Conhecimento de Data Mesh ou Data Contracts.Informações adicionaisNOSSOS BENEFÍCIOSJá falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:Aqui, sua Saúde é prioridade. Plano médico e odontológico. Auxílio medicamentos. Vale saúde para familiares. Sessões de psicoterapia gratuitas. Telemedicina e 2ª opinião médica. Vacina da gripe e HPV gratuitas. Programas de cuidado com a saúdePara cuidar da sua Alimentação. Vale refeição ou restaurante local (conforme modelo de trabalho). Vale alimentação. Vale alimentação de NatalGarantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida. Plano de academias e estúdios de atividade física. Auxílio home office (modelos de trabalho híbrido e remoto). Plano de saúde para pets. Day off de aniversário. Desconto de até 40% em nossos produtos. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!). Programa de viagens e hospedagens&nbsp;Para a Família, nosso bem mais precioso. Auxílio educação infantil. Crédito nutrição infantil. Auxílio babá. Auxílio material escolar. Orientação jurídica, psicológica e social. Apoio para pais atípicos. Licença parental estendida (180 dias para mães e 120 dias para pais)Mobilidade para sua jornada presencial. Vale Transporte e Estacionamento (modelos híbrido e presencial)Seguridade para proteção e tranquilidade financeira. Seguro de Vida. Apoio ao falecimento de pais. Previdência Privada. Empréstimos consignados*Os pacotes de benefícios são configurados conforme regras de elegibilidade.",
-    "careerPageId": 39182,
-    "careerPageName": "GAVB ",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/295/career/39182/images/2023-04-13_17-54_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-22T21:52:15.665Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://gavb.gupy.io/job/eyJqb2JJZCI6OTcyNTI5Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://gavb.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9678502,
     "companyId": 137,
     "name": "Analista de Dados Pleno (com foco em IA/LLM)",
@@ -412,29 +389,6 @@
     "disabilities": true,
     "workplaceType": "remote",
     "careerPageUrl": "https://qualitydigital.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9727699,
-    "companyId": 77818,
-    "name": "Estágio em Gestão e Qualidade de Dados em Saúde",
-    "description": "Na Mevo, estamos redefinindo os padrões da saúde digital desde 2017. Somos um grupo de empresas que desenvolve soluções tecnológicas de receita digital; agendamento de exames; e pesquisa, compra online e entrega de medicamentos.Nosso propósito é descomplicar o cuidado da saúde dos brasileiros, facilitando o dia a dia de milhões de pacientes, milhares de profissionais de saúde e centenas de hospitais, clínicas e farmácias.Nossa culturaNa Mevo, valorizamos o protagonismo dos nossos empreendedores que aceitam o desafio de construir uma nova realidade para o atendimento em saúde no Brasil.Somos um time focado em resultados, fundamentado pela excelência, intencionalidade e proatividade em todas as nossas ações.Acreditamos que somente com pessoas comprometidas em colaborar e co-criar, trazendo resultados fora da curva, podemos sempre alcançar nossos objetivos.&nbsp;Por isso temos no nosso DNA o modelo de partnership, onde aqueles que contribuem para o crescimento da empresa podem se tornar sócios.Estamos em busca de 2 estagiários talentosos e proativos dos cursos de Farmácia ou Biomedicina para se juntarem ao nosso time!Se você é apaixonado pela área da saúde, tem perfil analítico, organizado e quer colocar em prática seus conhecimentos acadêmicos em um ambiente dinâmico, inovador e cheio de aprendizado, essa oportunidade é para você.Venha crescer com a Mevo e ajudar a transformar a saúde digital no Brasil!Responsabilidades e atribuiçõesRealizar a curadoria e o enriquecimento contínuo do nosso catálogo de medicamentos, exames laboratoriais e produtos para a saúde.Atender e processar solicitações de melhorias e atualizações vindas de equipes internas e parceiros estratégicos.Garantir a acuracidade e a padronização das informações de medicamentos e informações regulatórias.Organizar e validar dados referentes a exames diagnósticos, assegurando a clareza das informações.Pesquisar e incluir novos produtos não medicamentosos em nosso catálogo, mantendo a base de dados relevante e abrangente.Requisitos e qualificaçõesEstar cursando Farmácia ou Biomedicina, a partir do 2º ano.Conhecimento do Pacote Office, com domínio de Excel para manipulação e organização de planilhas.Ser proativo e demonstrar grande interesse em aprender.Capacidade de trabalhar bem em equipe e se comunicar de forma clara.Ser uma pessoa organizada, com atenção aos detalhes e senso de responsabilidade (\"senso de dono\").DiferenciaisConhecimento avançado em Excel (fórmulas, tabelas dinâmicas, etc.).Vivência anterior em drogarias, farmácias hospitalares ou no Sistema Único de Saúde (SUS).Experiência prévia em laboratórios de análises clínicas ou diagnóstico.Informações adicionaisBenefícios:🏋️ Benefício TotalPass;😋Vale Refeição e Vale Alimentação;💜Seguro de Vida;🏥Plano de saúde;🦷 Plano Odontológico;💊 Benefício de farmácia;🐶 Benefício Petlove;💰 Bônus (conforme atingimento de metas);",
-    "careerPageId": 194744,
-    "careerPageName": "Mevo",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/77818/career/194744/images/2024-11-06_13-24_companyLogoUrl.jpg",
-    "type": "vacancy_type_internship",
-    "publishedDate": "2025-08-22T13:53:06.056Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://vagasmevo.gupy.io/job/eyJqb2JJZCI6OTcyNzY5OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": false,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://vagasmevo.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9736435,
@@ -1194,29 +1148,6 @@
     "disabilities": false,
     "workplaceType": "hybrid",
     "careerPageUrl": "https://falcoesetalentos.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9723941,
-    "companyId": 295,
-    "name": "Pessoa Engenheira de Dados III (GAVB)",
-    "description": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.Vem fazer beleza com a gente!Conheça o time da GAVBSomos especialistas em transformar dados em inteligência para impulsionar o sucesso dos nossos clientes. Com expertise em Data &amp; Analytics e um time de mais de 500 consultores, oferecemos soluções personalizadas que potencializam resultados e aceleram o crescimento das empresas do futuro.Responsabilidades e atribuiçõesDesenvolver e otimizar pipelines de dados complexos;Modelar e gerenciar bases de dados de larga escala;Implementar práticas de segurança e conformidade de dados.Requisitos e qualificaçõesProfundo entendimento dos serviços do Azure, incluindo Azure Data Lake, Azure Databricks e Azure Synapse Analytics, Azure SQL Database, Azure Blob Storage e Azure Data Factory;Capacidade de implementar soluções de data warehousing e big data.Habilidades de liderança em projetos, capacidade de mentorar pessoas engenheiras júnior e habilidade para resolver problemas complexos de forma independente.Informações adicionaisNOSSOS BENEFÍCIOSJá falamos que o Grupo Boticário é o melhor e maior ecossistema de beleza, né?E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios* que permite uma vida mais equilibrada e completa:Aqui, sua Saúde é prioridade. Plano médico e odontológico. Auxílio medicamentos. Vale saúde para familiares. Sessões de psicoterapia gratuitas. Telemedicina e 2ª opinião médica. Vacina da gripe e HPV gratuitas. Programas de cuidado com a saúdePara cuidar da sua Alimentação. Vale refeição ou restaurante local (conforme modelo de trabalho). Vale alimentação. Vale alimentação de NatalGarantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida. Plano de academias e estúdios de atividade física. Auxílio home office (modelos de trabalho híbrido e remoto). Plano de saúde para pets. Day off de aniversário. Desconto de até 40% em nossos produtos. Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!). Programa de viagens e hospedagens&nbsp;Para a Família, nosso bem mais precioso. Auxílio educação infantil. Crédito nutrição infantil. Auxílio babá. Auxílio material escolar. Orientação jurídica, psicológica e social. Apoio para pais atípicos. Licença parental estendida (180 dias para mães e 120 dias para pais)Mobilidade para sua jornada presencial. Vale Transporte e Estacionamento (modelos híbrido e presencial)Seguridade para proteção e tranquilidade financeira. Seguro de Vida. Apoio ao falecimento de pais. Previdência Privada. Empréstimos consignados*Os pacotes de benefícios são configurados conforme regras de elegibilidade.",
-    "careerPageId": 39182,
-    "careerPageName": "GAVB ",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/295/career/39182/images/2023-04-13_17-54_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-20T17:26:38.454Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://gavb.gupy.io/job/eyJqb2JJZCI6OTcyMzk0MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://gavb.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9725205,
@@ -2298,29 +2229,6 @@
     "disabilities": true,
     "workplaceType": "on-site",
     "careerPageUrl": "https://lojastorra.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9700297,
-    "companyId": 16108,
-    "name": "Especialista em Gestão Técnica I - Precificação - Dados",
-    "description": "O que estará sobre seus cuidados:Será responsável pela Gestão Técnica. Isto é, pela análise e estudos de reajustes de preço da carteira afim de garantir a sustentabilidade dos resultados dos produtos patrimoniais por meio dos Relatórios Gerenciais, BIs, Dashboards e DRE; bem como pela elaboração e revisão de estudos estatísticos para fundamentar a NTA; e pela modelagem estatística da precificação dos produtos.Responsabilidades e atribuiçõesAlém de cuidar, você precisa ter conhecimento em:Acompanhar os resultados dos produtos massificados e propor ações de melhorias.Acompanhar o preço em relação aos principais players do Mercado.Desenvolver análises e estudos voltados à precificação visando o equilíbrio da carteira (market price).Realizar modelos matemáticos para determinação da tarifa técnica.Desenvolver relatórios gerencias, BIs e Dashboards.Elaborar e revisar estudos estatísticos para a NTA.Requisitos e qualificaçõesSuperior Completo ( Administração, Engenharia, Matemática, Estatística&nbsp;e áreas afins);Pacote office Avançado;Conhecimento em em seguros, gestão de projetos, linguagens de programação (SAS e SQL) e Emblem,&nbsp;Modelagem Estatística da Precificação;Desejável conhecimento em Tableau e Radar.Informações adicionaisComo cuidamos de você:Benefícios:Seguro Saúde;Seguro Odontológico;Seguro Decesso;Vale Transporte;Estacionamento Gratuito;Vale Refeição;Vale Alimentação;13ª Cesta de Alimentação;Seguro de Vida em Grupo;Plano de Previdência Privada;Auxílio Creche e/ou Babá;Participação nos Lucros e Resultados (PLR);Gympass;Day off para comemorar seu aniversário;Universidade Corporativa com mais 500 cursos;Programa de Saúde Integrada: mental, social, financeira e física.Onde ficamos?Nossa sede fica localizada na zona sul de São Paulo, próximo à estação de trem Morumbi (linha 9 – Esmeralda), na região do bairro Chácara Santo Antônio.&nbsp;",
-    "careerPageId": 58652,
-    "careerPageName": "Brasilseg",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/16108/career/58652/images/2023-12-07_19-21_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-15T20:08:02.561Z",
-    "applicationDeadline": "2025-09-10T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://brasilseg.gupy.io/job/eyJqb2JJZCI6OTcwMDI5Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://brasilseg.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9699755,
@@ -3450,29 +3358,6 @@
     "careerPageUrl": "https://encantech.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9679458,
-    "companyId": 1963,
-    "name": "Analista de Dados Pleno | Data Analytics - Dados e Performance - Vaga exclusiva para pessoas negras ✊🏾",
-    "description": "A Globo&nbsp;é feita de gente que quer fazer diferente, fazer junto, fazer o futuro.Gente espalhada por todo o país (e mundo!) trabalhando com conteúdo, notícias, negócios, tecnologia e brasilidade de sobra. Canais na TV aberta e por assinatura, produtos digitais como globoplay, Cartola, g1, ge, gshow e outros serviços estão reunidos no mesmo lugar, na mesma Globo.Novos modelos de negócios digitais estão sendo pensados e desenvolvidos, buscando nos aproximar cada vez mais do usuário e dos seus desejos. As oportunidades de novos negócios também trazem a chance e o desafio de construirmos novos times data-driven e que coloquem o consumidor no centro das nossas decisões.Sobre a área:&nbsp;O time de Data Analytics é responsável por atender às necessidades do time de negócios da Globo. Nossa missão é oferecer suporte estratégico e apoiar os times parceiros na melhoria da performance das campanhas, além de fomentar novas oportunidades de negócio por meio da inovação orientada por dados, integrando inteligência analítica, uso estratégico de dados proprietários e gestão eficaz de audiências.DiversidadeCriamos ambientes onde todas as pessoas são incluídas, acolhidas e valorizadas. Nos empenhamos em ser uma Globo cada vez mais diversa, em representatividade e pensamento, aprendendo uns com os outros e estimulando a criatividade e inovação.Acreditamos na intencionalidade para gerar movimentos transformadores, que reconheçam que diferentes grupos sociais partem de diferentes realidades que precisam ser levadas em consideração e acolhidas pelas pessoas e pelo negócio.Equipes representativas trazem inovação inclusiva, nos permitindo criar experiências emocionantes para diferentes tipos de pessoas.Queremos ser cada vez mais o lugar onde todas as pessoas se encontram e, por isso, essa vaga é para você, pessoa negra, que quer crescer e construir o futuro com a gente, nos bastidores de produtos e serviços que impactam a vida de milhões de brasileiros e brasileiras todos os dias.&nbsp;Modelo de trabalho:&nbsp;Híbrido – SP/SPResponsabilidades e atribuiçõesComo será seu dia a dia:&nbsp;&nbsp;Apoiar análises de problemas de negócios formulando recomendações e conclusões;Apoiar os times de dados e performance na mensuração dos resultados das campanhas gerenciadas, por meio da construção de análises e dashboards, com o objetivo de subsidiar a tomada de decisão nas diferentes etapas do processo de planejamento e compra de mídia e fornecer insights relevantes;Ser o principal ponto de contato das áreas de Performance e Comercial no processo de Onboarding de Dados, apoiando no fluxo e controle de NDAs, bem como na construção de dashboards, análises e geração de insights;Colaborar com o time no desenvolvimento de novos produtos de dados e na implementação de melhorias que potencializem a performance, a eficiência e o valor estratégico das entregas da área, com olhar analítico, criativo e orientado à inovação.Requisitos e qualificaçõesDo que você precisa:&nbsp;Curso superior completo;Experiência anterior como analista de dados;Domínio de SQL e experiência com análise de grandes volumes de dados em BigQuery ou tecnologias similares;Experiência com ferramentas de dashboard (Looker/Power BI);Python;Ter habilidade de comunicação para traduzir análises complexas em narrativas claras, acionáveis e alinhadas aos objetivos de negócio;Conhecimentos em métricas de mídia de digital;Conhecimento em Google Ad Manager e Google Analytics.﻿Conhecimentos que te destacam:&nbsp;&nbsp;&nbsp;Inglês;Passagem anterior por agências de propaganda ou outros players digitais;Familiaridade com metodologias ágeis;Conhecimento sobre plataformas de Ads (google; meta).Informações adicionaisPor que vir para Globo:&nbsp;&nbsp;Vem e vamos criar histórias e tecnologias juntos.Na Globo, o encontro de histórias com tecnologia move um time diverso e apaixonado por inovação.A gente tem a chance de aproximar os brasileiros, criando novas formas de se conectar com eles.Aqui, cada um faz a transformação acontecer.Nossos processos seletivos estão acontecendo de forma 100% remota. #vempraglobo&nbsp;&nbsp;Quer saber mais sobre como é trabalhar na Globo? Vem acompanhar nosso dia a dia, desafios e conquistas nas nossas redes:&nbsp;https://www.linkedin.com/company/globohttps://www.instagram.com/vempraglobohttps://www.youtube.com/c/VemPraGlobo/&nbsp;&nbsp;Os seus dados pessoais serão utilizados para fins de seleção de candidatos para preenchimento das vagas abertas na Globo. Os dados pessoais coletados durante o processo seletivo dos candidatos que não forem admitidos neste momento poderão ser mantidos nos bancos de dados para consideração em futuros processos seletivos. Todos os dados coletados serão tratados segundo rígidos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, incluindo a Lei 13.709/18, e nos termos de nossa política de privacidade, disponível no link:&nbsp;https://vempraglobo.g.globo/files/politica_de_privacidade.pdf&nbsp;Ao prosseguir você está ciente e de acordo para realização de sua candidatura nestes termos.&nbsp;",
-    "careerPageId": 40535,
-    "careerPageName": "Globo",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/1963/career/40535/images/2025-01-02_19-51_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-12T23:17:58.504Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://globo.gupy.io/job/eyJqb2JJZCI6OTY3OTQ1OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://globo.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9678774,
     "companyId": 14029,
     "name": "Pessoa Cientista de Dados Pleno",
@@ -4002,29 +3887,6 @@
     "careerPageUrl": "https://lwsa.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9671733,
-    "companyId": 68548,
-    "name": "Coordenador(a) de Dados",
-    "description": "🚀 Buscamos pessoas candidatas que gostem de assumir desafios.Buscamos um(a) Coordenador(a) de Dados com sólida experiência técnica e capacidade de liderança para atuar de forma estratégica na gestão de soluções de dados, arquitetura moderna (Data Lake, Lake House), governança e evolução da cultura de dados na organização. A posição é nacional e envolve interação com diferentes áreas e stakeholders, garantindo que os dados sejam confiáveis, seguros e direcionados para gerar valor ao negócio.👥 Profissionais com Deficiência e/ou Reabilitados, Seu Talento é Precioso para Nós!Estamos comprometidos em construir um banco de talentos diversificado e inclusivo. Acreditamos que a verdadeira inovação nasce da diversidade e inclusão. A nossa missão é simplificar a vida com tecnologia e conectividade, e para isso, valorizamos cada indivíduo que contribui para o nosso sucesso.🌱 Cultivamos um Ambiente de Crescimento:Relacionamento interpessoal valorizado.Determinação para atingir resultados.Transparência em todas as nossas ações e comunicações.Responsabilidades e atribuiçõesLiderar o time de dados em iniciativas de arquitetura, engenharia e governança.Gerenciar e evoluir a arquitetura de dados da companhia, com foco em escalabilidade, segurança e performance.Definir padrões, processos e boas práticas para ingestão, tratamento e consumo de dados.Supervisionar o desenvolvimento de pipelines de dados em tempo real e batch.Garantir a organização, integridade e rastreabilidade das fontes de dados.Atuar no planejamento e execução de projetos estratégicos de dados.Apoiar a adoção e evolução de soluções em cloud e on-premises.Colaborar com áreas de negócio e tecnologia para soluções que gerem valor.Implementar políticas de Data Governance e segurança de dados.Gerenciar indicadores, capacidade de entrega e backlog da área.Tecnologias e Ferramentas:Cloud e Analytics: Google Cloud Platform (GCP), Microsoft Azure (Azure Data Factory, Synapse Analytics, Databricks).Bancos de Dados: Relacionais, NoSQL, Data Lakes, Lake Houses, Data Warehouses.Data Lake e Armazenamento: Delta Lake.Linguagens e Query: Python, SQL.CI/CD e Monitoramento: Jenkins, Datadog.Business Intelligence: Power BI, QuickSight ou similares.Requisitos e qualificaçõesFormação superior em Ciência da Computação, Engenharia, Sistemas ou áreas correlatas.Sólida experiência com Big Data (Hadoop, Kafka, Spark, etc.).Experiência com ferramentas de ETL e orquestração de processos (Airflow, Control-M).Proficiência em Python.Experiência com Cloud (GCP ou Azure ou AWS).Conhecimento em ferramentas de BI (Power BI, QuickSight ou similares).Inglês intermediário ou avançado.Diferenciais:Experiência com transformação digital e cultura de dados.Capacidade analítica/lógica.Conexão entre conhecimento técnico e estratégia de negócio.Organização, disciplina e proatividade.Trabalho colaborativo e orientação a resultados.Informações adicionaisQuanto a benefícios trabalhamos com:RVI - Remuneração variável incentivada, Participação nos Lucros e Resultados – PLR;Auxílio creche;Seguro de vida;Vale refeição;Vale alimentação;Auxílio mobilidade;Plano de saúde Unimed;Plano Odontológico;Descontos em academias (TotalPass);C4Life;Planos de internet e telefonia móvel com descontos.",
-    "careerPageId": 165462,
-    "careerPageName": "Brasil TecPar",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/68548/career/165462/images/2024-03-12_20-32_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-11T21:23:07.298Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://vagasbrasiltecpar.gupy.io/job/eyJqb2JJZCI6OTY3MTczMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://vagasbrasiltecpar.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9671070,
     "companyId": 2358,
     "name": "Cientista de Dados Sênior ",
@@ -4161,29 +4023,6 @@
     "disabilities": true,
     "workplaceType": "remote",
     "careerPageUrl": "https://stefanini.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9669288,
-    "companyId": 46700,
-    "name": "Bling | Especialista em Banco de Dados | MongoDB | Remoto",
-    "description": "Descomplicamos a vida de milhares de empreendedores. Somos um sistema ERP para micro e pequenas empresas, com ferramentas que possibilitam uma gestão operacional e financeira mais integrada, simples e prática.&nbsp;Como Especialista em banco de dados, com foco em MongoDB, Você será responsável por desenhar, evoluir e garantir a confiabilidade da infraestrutura cloud que suporta milhões de operações por dia. Esperamos que atue como uma referência técnica para o time, colabore em decisões arquiteturais e promova uma cultura de excelência, automação e segurança.Essa é uma oportunidade para quem domina ambientes em nuvem, atua com infraestrutura como código, práticas de observabilidade, segurança e atua com responsabilidade técnica de ponta a ponta, garantindo qualidade, performance e segurança.Essa oportunidade é para atuação remota, no regime CLT, com uma jornada de 40 horas semanais.Vem com a gente ajudar empresas a administrarem seus negócios de forma simples e inteligente, através de tecnologia! 💚🚀Responsabilidades e atribuiçõesResponsabilidades e atribuições:Projetar e implementar soluções escaláveis, seguras e resilientes em AWS.Administrar e evoluir ambientes de banco de dados (MongoDB).Evoluir o uso de Terraform, CI/CD e automações/Gitops para garantir infraestrutura reproduzível e auditável.Ser referência técnica em monitoramento, logging e rastreamento de sistemas distribuídos.Apoiar revisões arquiteturais e decisões técnicas com times de produto, desenvolvimento e segurança.Identificar gargalos, propor melhorias contínuas e liderar iniciativas estruturantes.Participar de incidentes críticos, war rooms e post-mortems com foco em prevenção e aprendizado.Mentorar analistas e engenheiros em práticas modernas de engenharia de infraestrutura.Requisitos e qualificaçõesO que você precisa ter:Profundo conhecimento em AWS (serviços core: EC2, VPC, S3, IAM, RDS, etc).Experiência com administração de ambientes MongoDB, MongoDB Ops Manager ou equivalente.Forte domínio de Infraestrutura como Código (Terraform – com módulos reutilizáveis e state remoto).Experiência com pipelines CI/CD (GitHub Actions, GitLab CI, etc).Vivência em ambientes Kubernetes / EKS.Vivência em ferramentas de observabilidade (Prometheus, Grafana, ELK/OpenSearch, New Relic).Conhecimento sólidos em segurança (IAM, hardening, políticas de rede, TLS, Security Hub).Automação com Bash, Python ou Go.Atuação com FinOps, gestão de custos e tagging.É desejável e será um diferencial:Experiência com SRE e DevOps.Coding - linguagem de programação (Javascript, PHP, Go, Java, Python, …).﻿Informações adicionaisO que nós oferecemos:🩺Convênio médico;🦷Convênio odontológico;🍽️Vale-refeição ou vale-alimentação;🍼 Auxílio-creche;💻 Auxílio home office🤑 Programa de participação de lucros-PPR;🏖️ Day Off no mês de aniversário;💛Seguro de vida; 🏋️‍♀️ Wellhub;🏖️ Férias&amp;Co (benefício de viagens);💝 Zenklub &nbsp;(psicoterapia/atendimento nutricional);💙Licença maternidade de 6 meses e paternidade de 20 dias;⌚Horário flexível;🤝🏿 Auxílio Educação e auxílio idiomas;Vem com a gente ajudar empresas a administrarem seus negócios de forma simples e inteligente, através de tecnologia!Temos uma cultura honesta, transparente e que evolui constantemente, focada em tornar o ambiente de trabalho mais leve e trazer integração total entre todas pessoas Blingers.Onde estamos:📍 Rua Olavo Bilac, 914, sala 101 - Térreo - Imigrante | Bento Gonçalves - RS | CEP: 95702-000Importante ressaltar:&nbsp;Essa e todas as vagas abertas da companhia LWSA são elegíveis para todas as pessoas, independente de gênero, etnia, orientação sexual, acessibilidade e/ou condição social. Ressaltamos que nossas vagas estão abertas para todas as pessoas com deficiência (PcDs).﻿",
-    "careerPageId": 164852,
-    "careerPageName": "LWSA",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/46700/career/164852/images/2023-11-03_17-48_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-11T17:52:57.011Z",
-    "applicationDeadline": "2025-09-07T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://lwsa.gupy.io/job/eyJqb2JJZCI6OTY2OTI4OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://lwsa.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9628859,
@@ -4853,29 +4692,6 @@
     "careerPageUrl": "https://nucleoengenharia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9650589,
-    "companyId": 68258,
-    "name": "Analista Dados",
-    "description": "A cultura da Mega Rio é descrita como sendo baseada na simplicidade e objetividade. A busca constante pela excelência na qualidade dos produtos e serviços, além do foco na satisfação dos clientes, destaca o compromisso da empresa em oferecer o melhor para seus consumidores.Responsabilidades e atribuiçõesAtuar na análise e otimização da performance da equipe de vendas por meio da gestão eficiente da carteira de clientes, roteirização comercial e identificação de oportunidades para aumento de cobertura, frequência de visitas e conversão de vendas. Será responsável por garantir que a atuação dos vendedores esteja alinhada com o potencial de mercado e estratégias da empresa.&nbsp;Realizar o acompanhamento e análise das rotas de vendedores, propondo melhorias em produtividade, cobertura e eficiência;Desenvolver e atualizar dashboards e relatórios de desempenho, com indicadores como positivação, taxa de conversão, frequência de atendimento e giro de carteira;Apoiar a equipe comercial com análises de clusterização de clientes, segmentação e oportunidades de expansão de atendimento;Participar do desenho de metas e monitoramento de KPIs de eficiência comercial;Conduzir análises de gap de atendimento, clientes inativos e roteiros ociosos;Desenvolver e implementar os processos relacionados à carteira e roteirização.&nbsp;&nbsp;Requisitos e qualificaçõesFormação superior em Administração, Engenharia, Economia, Marketing ou áreas correlatas;Domínio de Excel (nível avançado) e ferramentas de BI (Power BI);Desejável conhecimento em sistemas de roteirização ou CRM.Habilidade na elaboração de planilhas e controle de metas;Conhecimentos em ferramentas de BI;Fácil acesso ao Recreio dos Bandeirantes&nbsp;",
-    "careerPageId": 164171,
-    "careerPageName": "Grupo Mega Rio",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/68258/career/164171/images/2023-08-29_14-28_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-07T19:10:53.101Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "country": "Brasil",
-    "jobUrl": "https://grupomegario.gupy.io/job/eyJqb2JJZCI6OTY1MDU4OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://grupomegario.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9607892,
     "companyId": 80755,
     "name": "Cientista de Dados - Sr",
@@ -5152,29 +4968,6 @@
     "careerPageUrl": "https://gocase.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9644764,
-    "companyId": 981,
-    "name": "ANALISTA DE DADOS PLENO - FOCO EM OPERAÇÕES FINANCEIRAS",
-    "description": "AQUI SUA CARREIRA COMEÇA GRANDE.VENHA SER UMA ANALISTA DE DADOS PLENO - FOCO EM OPERAÇÕES FINANCEIRAS NA YDUQS.Temos um projeto grandioso e que requer um time com disposição para pensar de forma original, disruptiva, e com objetivo de resolver as grandes questões de hoje na educação: acesso, tecnologia, customização e o sucesso dos nossos alunos.Somos uma companhia cheia de energia, que já nasceu gigante e com resultados extraordinários.Venha fazer parte desse time!VENHA TRANSFORMAR VIDAS. INCLUSIVE A SUA.Responsabilidades e atribuiçõesOs principais desafios como ANALISTA DE DADOS PLENO - FOCO EM OPERAÇÕES FINANCEIRAS, são:Desenvolver e manter dashboards estratégicos no Power BI, garantindo visualizações claras, intuitivas e alinhadas às necessidades das áreas de negócio;Realizar a manutenção e melhoria contínua de processos analíticos, buscando otimização, automação e eficiência nas rotinas de análise;Analisar criticamente os indicadores operacionais e financeiros, identificando desvios, tendências e oportunidades de melhoria que suportem tomadas de decisão estratégicas;Garantir a qualidade, consistência e integração dos dados utilizados nos painéis e relatórios, assegurando que as informações geradas sejam confiáveis e atualizadas;Colaborar com áreas internas para identificar demandas analíticas, traduzindo necessidades de negócio em soluções visuais e indicadores gerenciais relevantes;Participar do desenho, implementação e acompanhamento de testes A/B para avaliar o impacto de novas estratégias operacionais;Acompanhar as tendências externas do mercado de inadimplência divulgando em comitês;Promover a disseminação da cultura de governança corporativa de dados.Requisitos e qualificaçõesBuscamos profissionais com:Ensino Superior Completo em Engenharias, Administração, Economia, Ciência da Computação ou Sistemas de Informação;Pacote Office em nível avançado;Experiência na manipulação e análise de grandes volumes de dados com alta complexidade;Atuação no desenvolvimento de dashboards para acompanhamento de KPIs, com forte domínio em Power BI (desenvolvedor);Desejável conhecimento e experiência com SQL e Python;Diferencial: Experiência com Alteryx, conhecimento prévio do mercado de educação superior e das operações de cobrança.Experiência prévia com Databricks é altamente valorizada.Informações adicionaisLocal de Trabalho: Barra da Tijuca / RJ.Modelo de trabalho: Híbrido ( 3x semanais presenciais).Horário de Jornada: 09h às 19h de segunda a quinta e das 09h às 18h às sextasNa YDUQS você vai encontrar:Bolsas de estudo&nbsp;de até 100% para colaboradores, dependentes legais e agregados (pai, mãe e irmãos (as). Permitindo até três bolsas simultâneas;Assistência médica&nbsp;com subsídio integral para o colaborador e parcial para sua família, com o colaborador responsável pela coparticipação;Assistência odontológica&nbsp;opcional,&nbsp;para cuidar da sua saúde bucal;Vale Alimentação ou Vale Refeição&nbsp;com opção de escolha&nbsp;para se adequar às suas necessidades;Wellhub ou Totalpass&nbsp;para opções flexíveis de academias;Bem-estar e clube de vantagens com programa dedicado e vantagens exclusivas;Dress code flexível&nbsp;para promover a nossa diversidade;Seguro de vida;Convênio com o&nbsp;SESC;Universidade Corporativa no nosso portal exclusivo, Educare;Oportunidades de crescimento,&nbsp;hoje mais de 60% das vagas são fechadas com processo de seleção interno.💻 Modelo de trabalho híbrido para todos os escritórios corporativos da companhia.🤰 Trabalho remoto (home office) estendido para as mães e pais recém-chegados da licença maternidade e paternidade por até 3 meses, de acordo com a função desenvolvida.🎓Acreditamos na excelência do nosso ensino e, por isso, valorizamos os egressos das nossas instituições em nossos processos seletivos.👩🏽‍🦽 Mais inclusão: essa vaga também é destinada a pessoas com deficiência.DIVERSIDADE: A YDUQS valoriza a diversidade e as informações adicionais&nbsp;prestadas nos campos de diversidade são muito importantes para nós, por isso pedimos para que não deixe de responder.",
-    "careerPageId": 1401,
-    "careerPageName": "YDUQS",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/981/career/1401/images/2021-07-23_18-07_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-06T21:59:54.805Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "country": "Brasil",
-    "jobUrl": "https://yduqs.gupy.io/job/eyJqb2JJZCI6OTY0NDc2NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://yduqs.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9642023,
     "companyId": 56104,
     "name": "Analista de Dados Jr",
@@ -5449,29 +5242,6 @@
     "disabilities": true,
     "workplaceType": "remote",
     "careerPageUrl": "https://atentoti.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9607394,
-    "companyId": 1934,
-    "name": "Analista de Dados Sênior | Shell Box ",
-    "description": "Somos mais de 40 mil pessoas que atuam com foco em segurança, integridade, colaboração e simplificação, os pilares que sustentam nossa cultura.&nbsp;&nbsp;Geramos valor&nbsp;para nossos acionistas, clientes e parceiros e colaboradores a partir de um&nbsp;ecossistema integrado de negócios&nbsp;que começa com o cultivo da cana-de-açúcar até chegar na produção e comercialização de etanol, açúcar e bioenergia.&nbsp;&nbsp;Atuamos ainda – sob licença da marca Shell – na distribuição de combustíveis, lubrificantes e outras especialidades no Brasil, além de operações de refino na Argentina e distribuição de derivados de combustíveis e lubrificantes na Argentina e no Paraguai.&nbsp;Se identificou?&nbsp;Estamos em busca de Analista de Dados Sênior | Shell Box para atuar no time Tech na modalidade de Teletrabalho.Responsabilidades e atribuições🎯COMO SERÁ O SEU DIA A DIA:Desenvolver e manter dashboards interativos e eficientes no Power BI para apoiar decisões estratégicas de marketing;Monitorar e analisar indicadores de performance de campanhas de marketing (KPIs), como aquisição, retenção, engajamento e conversão;Trabalhar com grandes volumes de dados utilizando Databricks e Data Lake em Azure;Realizar análises exploratórias e preditivas para identificar oportunidades de otimização de campanhas;Colaborar com times de marketing e produto para entender necessidades de negócio e traduzir em soluções analíticas;Garantir a qualidade, integridade e governança dos dados utilizados nas análises;Automatizar processos de coleta, tratamento e visualização de dados;Participar da definição de métricas e OKRs relacionados à performance do Shell Box.Requisitos e qualificações🔎O QUE VOCÊ PRECISA TER:ObrigatórioFormação superior em áreas como Engenharia, Ciência de Dados, Estatística, Economia, Administração ou correlatas.Experiência comprovada com Power BI, incluindo DAX, modelagem de dados e publicação de relatórios;Domínio de Databricks e arquitetura de dados em Azure;Conhecimento sólido em SQL e Python para manipulação e análise de dados;Experiência com métricas e estratégias de marketing digital (CRM, campanhas, funil de conversão, etc.);Capacidade de transformar dados em insights acionáveis para áreas de negócio;Boa comunicação e habilidade de trabalhar em equipe multidisciplinar.&nbsp;&nbsp;DesejávelExperiência prévia em projetos de dados voltados para aplicativos mobile ou programas de fidelidade;Familiaridade com metodologias ágeis (Scrum, Kanban);Experiência com testes A/B e análise de experimentos.Informações adicionaisETAPAS DO PROCESSO SELETIVO:Nosso processo contempla 3 etapas principais (podem ter outras, e você ficará por dentro caso avance):Inscrição - preenchimento deste formulário e de dados adicionais, caso necessário.Entrevista com o RH - um bate-papo para nos conhecermos.Entrevista com a liderança: bate-papo mais técnico para contar ainda mais sobre o dia a dia e os desafios.Nossa comunicação será por e-mail e telefone - confira se seus dados estão atualizados.",
-    "careerPageId": 3476,
-    "careerPageName": "Raízen ",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/1934/career/3476/images/2021-02-12_13-44_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-05T21:05:19.053Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://genteraizen.gupy.io/job/eyJqb2JJZCI6OTYwNzM5NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://genteraizen.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9636767,
@@ -5794,29 +5564,6 @@
     "disabilities": true,
     "workplaceType": "on-site",
     "careerPageUrl": "https://corporativopanvel.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9631150,
-    "companyId": 528,
-    "name": "Consultora | Consultor de Ciências de Dados II",
-    "description": "Da cidade de Alumínio para o alumínio de todas as cidades!&nbsp;&nbsp;Somos a CBA e existimos para ser a&nbsp;liga&nbsp;entre o mundo do alumínio e o mundo das&nbsp;pessoas. Nós oferecemos infinitas possibilidades, transformamos o cotidiano por meio de um metal infinitamente reciclável, que modifica o cenário da&nbsp;mobilidade, do&nbsp;consumo, da&nbsp;sustentabilidade&nbsp;e da&nbsp;qualidade de vida.&nbsp;&nbsp;Este é o nosso chamado para pessoas sonhadoras, apaixonadas por novos aprendizados, inovadoras e dispostas a se tornarem verdadeiros(as) agentes de transformação!&nbsp;Incentivamos a participação de pessoas negras, mulheres, LGBTQIA +,&nbsp;e pessoas com deficiência. Temos um comprometimento em promover&nbsp;diversidade, e acreditamos que ela é o caminho para a construção de um mundo melhor e mais justo, e que precisa ser começado dentro da nossa própria casa, então, vem ser aluminizado(a) com a gente!&nbsp;&nbsp;#VemserCBAResponsabilidades e atribuiçõesEstamos em busca de um(a) Consultor de Ciência de Dados II para integrar nosso time de Data &amp; Analytics, com atuação em projetos analíticos de ponta a ponta. Procuramos alguém com sólida experiência em machine learning e modelagem preditiva, mas que também tenha interesse (ou bagagem) em modelos de otimização, simulação e tomada de decisão baseada em dados.Valorizamos profissionais com perfil generalista, capazes de aplicar diferentes abordagens analíticas conforme o desafio de negócio – combinando visão técnica, curiosidade investigativa e senso de impacto.Desenvolver e implementar modelos de machine learning para classificação, regressão, clustering, séries temporais, entre outros;Desenvolver e colaborar em projetos que envolvem modelos matemáticos de otimização e simulação, contribuindo para soluções híbridas e integradas;Trabalhar junto aos engenheiros de dados e áreas de negócio para traduzir desafios operacionais em soluções analíticas escaláveis;Documentar, comunicar e apresentar resultados com clareza, orientando a tomada de decisão com base em evidências;Promover boas práticas em ciência de dados e apoiar a disseminação da cultura analítica.Requisitos e qualificaçõesOBRIGATÓRIO:Formação superior em Ciência da Computação, Matemática, Engenharias, Estatística e áreas correlatas;Experiência sólida em projetos de ciência de dados;Domínio de Python;Conhecimentos em machine learning supervisionado e não supervisionado, pipelines de machine learning e validação de modelos;Desejável conhecimento e experiência com modelos de otimização (linear, inteira, heurísticas) e simulação;Experiência com banco de dados, ambiente Azure e ferramentas de big data;Boa comunicação, capacidade de trabalhar em squads e orientação a entregas com impacto no negócio.Informações adicionaisNa&nbsp;&nbsp;CBA, o foco nas pessoas é real, por isso, nos preocupamos em apoiar nossas empregadas e empregados em cada momento!Cuidamos de você e sua família, com os benefícios de assistência médica, assistência odontológica,&nbsp;seguro de vida, programa de parentalidade e o programa de qualidade de vida, o Por você com os pilares de: atividade física, orientação nutricional, bem-estar com saúde emocional e prevenção.De acordo com a unidade de trabalho você poderá ter acesso ao benefício de refeição, benefício de alimentação, e suporte para o deslocamento como: vale transporte, reembolso mobilidade ou a opção do fretado.Também oferecemos o bônus anual e o plano de previdência privada, para que os nossos empregados e empregadas possam se preparar melhor para o futuro.",
-    "careerPageId": 586,
-    "careerPageName": "CBA",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/528/career/586/images/2022-08-22_11-24_logo.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-08-05T11:52:17.839Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://cba.gupy.io/job/eyJqb2JJZCI6OTYzMTE1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://cba.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9605488,
@@ -7590,52 +7337,6 @@
     "careerPageUrl": "https://certsys.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9487139,
-    "companyId": 824,
-    "name": "Analista Financeiro(Foco em Dados) -  Curitiba/PR ",
-    "description": "Com modernas técnicas de construção e uma rigorosa gestão de obras, a Rottas hoje acumula mais de 593 mil m² de obras contratadas na região sul. Em 15 anos de história, a empresa acumulou um portfólio com mais de 8.100 unidades habitacionais.&nbsp;Prazer em trabalhar com planejamento, dedicação em entregar qualidade e um firme compromisso com os cronogramas. Estes atributos estão ajudando a Rottas a conquistar clientes cada vez mais satisfeitos. Clientes que encontram na empresa um parceiro comprometido com a realização dos seus sonhos.A Rottas Construtora possui a certificação Nível A no PBQP-H (Programa Brasileiro de Qualidade e Produtividade do Habitat), um instrumento do Governo Federal que avalia a conformidade da empresa com as normas técnicas e com a qualidade dos serviços, materiais e mão de obra. Também conta com o selo ISO 9001, referência internacional em sistemas de gestão da qualidade, e classificação Nível 2 no NDT da Caixa Econômica Federal, que reconhece o desempenho das construtoras em critérios técnicos, financeiros e de governança. É assim que a Rottas reafirma seu compromisso com a evolução da qualidade, a produtividade e a sustentabilidade.Responsabilidades e atribuiçõesAtuação estratégica e operacional no setor financeiro, com foco em análise de dados, melhoria de processos e inovação.Dar suporte a área financeira para análises de projetos e melhorias de processos;Propor ferramentas de inovação para processos e procedimentos da área;Analisar dados como renda, comprometimento, perfil de clientes, indicadores de birô;Analisar cenários de dados para inadimplência;Análise de volume de dados de pagamentos e lançamentos de notas fiscais.Redefinir processo de cadastros e determinar fluxos de processos em conjunto com a gerência;Operacionalizar transações financeiras em bancos; Garantir a conciliação diária das contas correntes; Garantir o cumprimento da política financeira, evitando pagamento de juros e multas por  atrasos; Analisar aprovações para efetuar os pagamentos, conforme políticas internas; Controlar documentos vencidos e a vencer.Requisitos e qualificaçõesEscolaridade: Superior cursando ou completo em Administração, Economia, Contabilidade, TI e afins;Conhecimentos específicos: Excel, Power BI avançado.Diferenciais: Conhecer sistema ERP(MEGA).Informações adicionaisConheça o pacote de benefícios e diferenciais da Rottas Construtora:&nbsp;Jornada:&nbsp;De segunda à sexta-feira das 08h30 às 18h00 com 1 hora de intervalo.Benefícios📄 Emissão de 13 notas fiscais ao ano; 💳 Ajuda de custo (Caju); 🤝 Programa de Indicação; 💪 Wellhub (Gympass); 🎉 Day Off no mês de aniversário; 👶 Kit maternidade/paternidade; 🏥 Plano de saúde; 🦷 Plano Odontológico.Além disso:&nbsp;🖥️ Equipamentos necessários para o trabalho; 📈 Ciclo de Avaliação de Desempenho; 🎯 Plano de Desenvolvimento Individual (PDI); 🔄 Feedback contínuo.Inscreva-se agora na vaga e vem ser #TimeRottas&nbsp;🧡&nbsp;",
-    "careerPageId": 1100,
-    "careerPageName": "Rottas Construtora e Incorporadora",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/824/career/1100/images/2020-12-10_14-02_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-25T18:20:40.637Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Curitiba",
-    "state": "Paraná",
-    "country": "Brasil",
-    "jobUrl": "https://rottas.gupy.io/job/eyJqb2JJZCI6OTQ4NzEzOSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://rottas.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9488421,
-    "companyId": 51691,
-    "name": "Assistente de Dados Estratégicos - AFIRMATIVA - PESSOAS COM DEFICIÊNCIA",
-    "description": "Vem pra NÚCLEA!&nbsp;Já imaginou se os meios de pagamento parassem de funcionar? Pois é, isso nem passa pela nossa cabeça, porque trabalhamos com inovação, confiabilidade e tecnologia de ponta para que você, pequenas ou grandes empresas possam fazer suas transações com total segurança e agilidade, a qualquer hora do dia ou da noite.&nbsp;Nosso ambiente é feito de gente movida pela vontade de interagir de forma colaborativa e disposta a se desafiar todos os dias. Estamos cheios de energia para continuar transformando o mercado financeiro. Temos muito Orgulho de Ser NUCLEA.&nbsp;&nbsp;Sobre a NÚCLEA&nbsp;https://www.nuclea.com.br/&nbsp;Para todas as posições consideramos diversidade e inclusão.Na Núclea, valorizamos muito o respeito e a diversidade em nossas equipes, aqui, acreditamos que nossas diferenças são nossas maiores forças.De acordo com nossos valores, as pessoas estão no centro&nbsp;do nosso negócio e somente elas são capazes de&nbsp;movimentar a economia digital em benefício de toda a sociedade.&nbsp;&nbsp;Essa é a chance para você mudar a sua vida, corra e se inscreva!Responsabilidades e atribuiçõesEntender as regras de negócio de todos os Serviços/Produtos, através de estudos e análises.&nbsp;Atualizar os indicadores de todos os Serviços/Produtos a fim de suportar os clientes internos na tomada de decisão.Automatizar relatórios de volumetria de todos os Serviços/Produtos para utilização pelas áreas, a fim de viabilizar o acesso às informações.Atender às solicitações e demandas de clientes internos e externos provendo relatórios e indicadores solicitados.Realizar validações e consistências das informações divulgadas.Requisitos e qualificaçõesFormação AcadêmicaSuperior Cursando em: Administração de Empresas, Economia, Engenharias, Matemática ou Estatística.Conhecimentos EspecíficosExcel – IntermediárioPowerpoint – BásicoWord - BásicoInglês: BásicoEspanhol: Não RequeridoAfinidade com NúmerosAtenção a DetalhesColaborativoResistência à PressãoVisão AnalíticaProativoCuidadosoInformações adicionaisModelo de Trabalho&nbsp;Home First&nbsp;( Maior parte Home Office)Salário compatível com o mercado - CLTBenefíciosConvênio Médico e OdontológicoVale Refeição - CajuSeguro de VidaAuxilio homefirstPLRPrevidência PrivadaAuxílio creche&nbsp;",
-    "careerPageId": 118852,
-    "careerPageName": "Núclea",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/51691/career/118852/images/2022-12-12_17-12_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-25T17:56:41.807Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://nuclea.gupy.io/job/eyJqb2JJZCI6OTQ4ODQyMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://nuclea.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9548669,
     "companyId": 57061,
     "name": "18403-Administrador de Banco de Dados ",
@@ -7726,52 +7427,6 @@
     "disabilities": true,
     "workplaceType": "remote",
     "careerPageUrl": "https://vetta.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9496951,
-    "companyId": 364,
-    "name": "CAS | Analista de Risco de Crédito PL - Foco em Dados",
-    "description": "Estamos em busca de uma pessoa com perfil de Analista e Engenheiro de dados Pleno para atuar na construção e manutenção de pipelines de dados robustos, confiáveis e escaláveis, para apoiar análises e decisões estratégicas no time de dados na área de Risco de Crédito. Essa pessoa será o elo entre engenharia e analistas de dados, garantindo que os dados estejam acessíveis, organizados e prontos para gerar valor.Responsabilidades e atribuiçõesExtração, transformação e processamento (ETL) de dados:Mapear informações e sistemas de diferentes fontes de origens;Desenvolver consultas eficientes de dados de diversas fontes e em grandes volumes para reporte legal e uso interno, com dados estruturados e não estruturados;Documentar e versionar códigos;Prezar pela qualidade, performance e sustentabilidade dos dados;Análises exploratórias para criação de gráficos e tabelas;Disponibilização de dados em relatórios para clientes internos e externos consumirem.Governança de dadosDesenvolver e manter pipelines de dados eficientes e escaláveis;Apoiar na organização dos dados da área de Risco de Crédito;Administrar bases de dados de acordo com as melhores práticas;Interagir com os diferentes papéis do processo de dados (analistas, outros engenheiros, cientistas de dados, analistas de negócio e engenheiros de software).Requisitos e qualificaçõesREQUISITOS E QUALIFICAÇÕES&nbsp;Ensino superior nas áreas de Sistema de Informação, Economia, Estatística, Administração, Engenharias, Ciência da Computação, Matemática, Ciências Atuariais e/ou áreas afins.&nbsp;Capacidade analítica e raciocínio lógico;&nbsp;Vontade de aprender;&nbsp;Organização e gestão do tempo;&nbsp;Habilidades de relacionamento são fundamentais;&nbsp;Conhecimento em linguagens de programação é essencial (SQL, SAS, Python ou outros);&nbsp;Prática com pacote Office (principalmente Excel).&nbsp;DIFERENCIAISExperiência prévia em instituições financeiras ou fintechs.Conhecimento em conceitos de Crédito ou Risco de Crédito.Conhecimento em frameworks de governança de dados e data quality.Conhecimento em MongoDB será um diferencial.INFORMAÇÕES ADICIONAIS&nbsp;Trabalhamos com uma variedade de ferramentas de analytics: Databricks, SAS, Python, R, PowerBI, Denodo;&nbsp;Nosso time é multidisciplinar e conta com profissionais com experiência em programação, análise de dados que adora multiplicar conhecimento.&nbsp;Informações adicionaisNo&nbsp;Centro Administrativo Sicredi (CAS)&nbsp;para as posições nas áreas de negócio adotamos o formato de trabalho híbrido que se consolidou em 3 dias presenciais, na Sede da empresa, localizada na Av. Assis Brasil, 3940, São Sebastião, Porto Alegre/RS e 2 dias em teletrabalho. Nas posições da área Tech adotamos o formato de teletrabalho.____________________________________________________No&nbsp;Sicredi&nbsp;você vai ter:14º e 15º salários fixos;Participações nos Resultados (conforme a senioridade);Plano de Saúde e Odontológico sem coparticipação,Programas de bem-estar com Wellhub (antiga Gympass), Nutrição, Psicologia, Laboral, Massagem, Grupo de corrida e academia local;Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;Licença maternidade e paternidade estendida;Auxílio creche ou babá para crianças até 6 anos e 11 meses;Auxílio para filhos com deficiência, sem limite de idade;Seguro de vida,Previdência Privada até 6% do salário;Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;Carga horária de 40h semanais – Utilizando sistema de banco de horas;Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).",
-    "careerPageId": 317,
-    "careerPageName": "Sicredi",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/364/career/317/images/logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-24T20:18:28.929Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Porto Alegre",
-    "state": "Rio Grande do Sul",
-    "country": "Brasil",
-    "jobUrl": "https://sicredi.gupy.io/job/eyJqb2JJZCI6OTQ5Njk1MSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://sicredi.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9496716,
-    "companyId": 364,
-    "name": "CAS | Analista de Risco de Crédito SR - Foco em Dados",
-    "description": "Estamos em busca de uma pessoa para atuar na análise de dados em Risco de Crédito. Essa pessoa será responsável por transformar dados em insights estratégicos, apoiando a tomada de decisão com análises robustas e monitoramento de indicadores de risco.Se você possui alta capacidade analítica, conhecimento sobre crédito/risco de crédito e gosta de atuar em um ambiente dinâmico e orientado a resultados, te inscreve!Responsabilidades e atribuiçõesAnálise de Dados: coletar, processar e analisar grandes volumes de dados estruturados e não estruturados para identificar padrões, tendências e oportunidades. Elaborar estudos de cenário e diagnóstico do negócio. Apoiar times na mensuração de resultados, identificando oportunidades e padrões. Identificar indicadores de performance (KPIs).Geração de Relatórios e Insights: preparar relatórios, dashboards e apresentações com insights acionáveis para tomada de decisões.Colaboração com outras áreas: trabalhar em conjunto com equipes de negócio para garantir alinhamento em relação às análises. Interagir com diferentes papéis no pipeline de dados, como outros analistas de dados, engenheiros de dados, cientistas de dados e engenheiros de software.Mentoria e treinamentos: organizar capacitações e mentorias para analistas de menor senioridade. Disseminar a cultura data driven internamente e para as cooperativas;Oportunidades de negócio: Identificar oportunidades de melhoria nos processos de concessão, cobrança e recuperação de crédito para as cooperativas. Bem como acompanhamento do resultado dessas ações no resultado do risco de crédito.Requisitos e qualificaçõesHabilidades e Temas de Conhecimento Desejáveis:Experiência sólida com SQL e ferramentas de manipulação de dados (Python, R ou similares) para análise e otimização avançada de dados;Conhecimento de ferramentas de visualização de dados como Power BI para criação de dashboards;Habilidades de liderança e pensamento analítico para liderar iniciativas de análise de dados, identificando oportunidades e direcionando decisões estratégicas;Experiência em áreas de crédito ou risco de crédito;Excelentes habilidades de comunicação e apresentação para influenciar as partes interessadas;Resiliência e adaptabilidade para enfrentar desafios de negócios complexos;Organização e gestão do tempo.Nível de formação e áreas de Formação Preferenciais:Nível superior concluído em Análise de Sistemas, Estatística, Economia, Matemática, Ciência da Computação, Engenharia ou áreas correlacionadas.DiferenciaisExperiência prévia em instituições financeiras ou fintechs.Conhecimento em conceitos de Crédito e Risco de Crédito.Conhecimento em frameworks de governança de dados e data quality.Vivência nas ferramentas DataBricks ou SAS será um diferencial.Informações adicionaisNo&nbsp;Centro Administrativo Sicredi (CAS)&nbsp;para as posições nas áreas de negócio adotamos o formato de trabalho híbrido que se consolidou em 3 dias presenciais, na Sede da empresa, localizada na Av. Assis Brasil, 3940, São Sebastião, Porto Alegre/RS e 2 dias em teletrabalho. Nas posições da área Tech adotamos o formato de teletrabalho.____________________________________________________No&nbsp;Sicredi&nbsp;você vai ter:14º e 15º salários fixos;Participações nos Resultados (conforme a senioridade);Plano de Saúde e Odontológico sem coparticipação,Programas de bem-estar com Wellhub (antiga Gympass), Nutrição, Psicologia, Laboral, Massagem, Grupo de corrida e academia local;Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;Licença maternidade e paternidade estendida;Auxílio creche ou babá para crianças até 6 anos e 11 meses;Auxílio para filhos com deficiência, sem limite de idade;Seguro de vida,Previdência Privada até 6% do salário;Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;Carga horária de 40h semanais – Utilizando sistema de banco de horas;Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).",
-    "careerPageId": 317,
-    "careerPageName": "Sicredi",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/364/career/317/images/logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-24T20:14:58.852Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Porto Alegre",
-    "state": "Rio Grande do Sul",
-    "country": "Brasil",
-    "jobUrl": "https://sicredi.gupy.io/job/eyJqb2JJZCI6OTQ5NjcxNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://sicredi.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9549188,
@@ -8510,29 +8165,6 @@
     "careerPageUrl": "https://stefanini.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9500525,
-    "companyId": 1904,
-    "name": "Analista de engenharia de Dados - TI ",
-    "description": "Somos apaixonados pelo que fazemos e juntos conduzimos um negócio com mais de&nbsp;25 anos&nbsp;de história.Já ultrapassamos a marca de 120 lojas, entre próprias e franquias, além de + 1.100 multimarcas que vendem nossos produtos por todo o país e um e-commerce potente que oferece uma infinidade de itens que atendem o lifestyle masculino.Hoje temos um orgulho enorme de dizer que a&nbsp;#NossaComunidade&nbsp;está presente em todos os estados do Brasil e isso é só o começo. Em 2023 faturamos&nbsp;600 milhões de reais&nbsp;e caminhamos com o objetivo de dobrar de tamanho até 2026 e atingirmos a marca de 1 bilhão de reais.E vale dizer que estamos em plena expansão e como parte da nossa estratégia de crescimento decidimos iniciar uma jornada para nos tornarmos uma&nbsp;house of brands, prática comum no varejo de moda.E como marco em nossa história lançamos em 2022 a nossa nova marca&nbsp;Urban Performance, que mescla elegância e praticidade para entregar ao homem mais conforto nos diferentes ambientes que ele ocupa em sua vida como lazer, esporte e trabalho.Para que tudo isso aconteça, contamos com mais de mil pessoas talentosas, que com protagonismo, colaboração, respeito e muito pertencimento, nos ajudam a construir o que em breve será&nbsp;o destino #1 do lifestyle dos homens.Aqui, acreditamos que cada pessoa inspira uma a outra e juntos podemos impulsionar e transformar histórias. Colaborando uns com os outros, avançamos com leveza e inteligência.E estamos em busca de um(a) Analista para ser responsável por ajudar na construção o futuro de Data e Analytics da Aramis.Responsabilidades e atribuiçõesConstrução de pipelines de ingestão de dados em python (Pyspark) na estrutura do Datalake.Construção de Integração de dados (Fonte Lake para sistemas transacionais).Desenvolvimento do modelo Lakehouse na estrutura Databricks(delta lake).Trabalhará de forma colaborativa com as partes interessadas internas e externas, como equipes de desenvolvimento de software, fornecedores e equipes de negócioGarantir a integridade e disponibilidade do ambiente data lake.Requisitos e qualificaçõesHabilidades Técnicas💻 Graduação em Ciência da Computação, Tecnologia da Informação, Análise e Desenvolvimento de Sistemas, Engenharias em Geral ou Entusiastas em Tecnologia💻 Conhecimento dos conceitos de big data, sistemas distribuídos de arquivos, modelagem de dados em NoSQL.💻 Conhecimentos em banco de dados (SQL e NoSQL), procedures, views e extração de dados💻 Conhecimentos em ETL e ELT (grandes volumes de dados)💻 Claro entendimento de comunicação de dados por APIs (get, post, rest, soap, put, delet)💻 Linguagem de programação em Python (Pyspark preferencialmente)💻 Azure Data Lake Storage💻 Azure Data Factory💻 Azure DatabricksDiferenciais 💻 Databricks💻 Conhecimentos em data science💻 Hadoop💻 Cloudera💻 Conhecimentos em linguagem R💻 Conhecimentos IAHabilidades Comportamentais🚀 Pensamento Crítico🚀 Pensamento estratégico🚀 Habilidades de comunicação🚀 Pensamento analítico🚀 Orientação para resultados🚀 Adaptabilidade🚀 Inovador🚀 Relacionamento InterpessoalInformações adicionaisE vale dizer que estamos em plena expansão e como parte da nossa estratégia de crescimento decidimos iniciar uma jornada para nos tornarmos uma house of brands, prática comum no varejo de moda.E como marco em nossa história lançamos em 2022 a nossa nova marca Urban Performance, que nasceu sob o conceito de athleisure, tendência que mescla os momentos de lazer, de esporte e de trabalho.Para que tudo isso aconteça, contamos com mais de mil pessoas talentosas, que com protagonismo, colaboração, respeito e muito pertencimento, nos ajuda a construir o que em breve será o destino #1 do lifestyle dos homens.E para cuidar da #NossaComunidade montamos um combo de benefícios completo:💻 Trabalho híbrido: 1 dia presencial e 4 dias remoto💵 Salário competitivo;💵 PLR;🍴 Cartão flexível de Refeição e Alimentação (Swile);🏥 Assistência Médica;🏥Assistência Odontológica;🚎 Auxílio Transporte;🏋🏻 Auxílio para prática de Atividades Físicas (Total Pass);🧘🏽‍♀️ Auxílio Saúde e Bem-estar (Vittude)🤓 Auxílio Educação (Edupass)💵 Desconto de 50% nos produtos da marca🏖️ Day off no mês do aniversário🏖️ Day off no mês das mães (para quem já é mamis)🏖️ Day off no mês dos pais (para quem já é papis)👶🏻 Licença Paternidade estendida;👩🏻‍🤝‍👨🏼 No dress code&nbsp;",
-    "careerPageId": 2948,
-    "careerPageName": "Aramis",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/1904/career/2948/images/2025-02-13_20-10_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-16T21:49:08.479Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://aramis.gupy.io/job/eyJqb2JJZCI6OTUwMDUyNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://aramis.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9530139,
     "companyId": 65971,
     "name": "Analista de Dados (GCP - Bigquery, Looker, Dataflow, Storage)",
@@ -8740,29 +8372,6 @@
     "careerPageUrl": "https://unimedpoa.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9470728,
-    "companyId": 5252,
-    "name": "Analista de Dados Junior | ETL | Afirmativa Talentos Diversos",
-    "description": "Se Ligga no nosso Manifesto de Cultura!&nbsp;Paixão pelo&nbsp;CLIENTE -&nbsp;Sem cliente, não há Ligga. Trabalhamos para que todos os clientes (internos e externos) tenham sempre uma experiência surpreendente.Orientação para&nbsp;RESULTADO -&nbsp;Somos orientados pelas nossas&nbsp;entregas. Muitas, rápidas e ótimas - mesmo que pequenas buscamos resultados todos os dias!Crença na&nbsp;TRANSPARÊNCIA -&nbsp;Abrimos caixas, dados e ideias. Guardar informações é um erro&nbsp;inaceitávelIncentivamos o&nbsp;PROTAGONISMO -&nbsp;Desafios são oportunidades para quem quer brilhar. Se há um problema , pegue pra você e resolva.Criamos&nbsp;CONEXÃO -&nbsp;Não existe um indivíduo sem um todo. Não existe uma área sem uma empresa. Levantamos e criamos contato próximo e autêntico com nossos colegas.Buscamos uma&nbsp;TRANSFORMAÇÃO -&nbsp;Muito mais que inovar, queremos ser um marco na vida dos nossos clientes, fornecedores e funcionários. Entendemos que repetir as mesmas fórmulas não irá iniciar a transformação.&nbsp;Se identificou? Venha fazer parte desse time!&nbsp;Conheça mais sobre nós:&nbsp;https://www.youtube.com/watch?v=VWwhkU5S5oUResponsabilidades e atribuiçõesDesenvolver, implementar e otimizar processos ETL (Extração, Transformação e Carga) utilizando ferramentas como Pentaho, com foco na integração de dados entre sistemas e bancos de dados.Automatizar fluxos de dados e processos de integração com ferramentas de orquestração, garantindo a execução eficiente e livre de falhas.Administrar e executar rotinas em ambientes Unix, incluindo execução de comandos, scripts e processamento de dados.Criar e otimizar consultas SQL para garantir eficiência na extração, transformação e carga de dados.Desenvolver scripts em Python para automação e processamento de dados.Monitorar a performance dos processos ETL, identificando falhas e implementando melhorias para otimização.Colaborar com as equipes técnicas para assegurar a integridade, qualidade e confiabilidade dos dados.Documentar processos e procedimentos técnicos das rotinas ETL, garantindo que a documentação esteja sempre atualizada.Monitorar e ajustar o desempenho do banco de dados, utilizando ferramentas de gerenciamento para otimização contínua.Capacidade para identificar e resolver problemas em logs de execução e falhas nos processos ETL.Habilidade para diagnosticar e solucionar problemas em fluxos de dados.&nbsp;Requisitos e qualificaçõesEnsino Superior Completo em Tecnologia da Informação, Análise de Sistemas, Ciências da Computação, Engenharia ou áreas correlatas.Conhecimento em Bancos de Dados Relacionais (Oracle, Postgres, MySQL) e Não-Relacionais (MongoDb)Capacidade de trabalhar de maneira colaborativa com equipes multidisciplinares.Boa habilidade analítica e atenção aos detalhes na análise de dados.Também serão considerados fortes diferenciais se você:Experiência com scripts em Python.Experiência com Apache Spark.Conhecimento em Big Data.Conhecimento em Pentaho ou outras ferramentas de visualização de dados.Conhecimento em ferramentas de orquestração (ex: Control-M).Conhecimento em ferramentas de gestão de projetos (ex: Jira).﻿*Incentivamos a diversidade! Todas as nossas vagas estão abertas a profissionais com deficiência ou reabilitados.Como vaga afirmativa, buscamos atrair Talentos Diversos para esse time! Sobre essa ótica aplicam-se pessoas que se identifiquem como mulher (cis e trans), membros da comunidade LGBTQIAP+, pretos e pardos, profissionais com deficiência ou reabilitados e pessoas neuro-diversas.Informações adicionaisAqui na LIGGA nos preocupamos com você e com seu bem-estar. Fique por dentro dos nossos benefícios:🤗👇🚑&nbsp;Plano de Saúde Unimed.🦷 Plano Odontológico DentalUni.🍽️ Vale refeição e alimentação em cartão híbrido.👨‍⚕️ Seguro de Vida.🚍 Vale transporte.🦾 TotalPass para realização de atividades físicas.📶Desconto Colaborador: 50% Off na contratação de qualquer plano de Internet.🤍 Parceria com a Vittude para terapia online.😍Programa Empresa Cidadã: Extensão da licença-maternidade e paternidade.Além disso, nosso dia a dia conta com uma cultura que promove:🏖️ Day Off de aniversário.😀 Ambiente descontraído, no dress code.🚀Oportunidade de trabalhar e se desenvolver em uma empresa que está crescendo a cada dia e é um dos maiores players em sua área de atuação no Paraná.👶🏾Para papais e mamães com crianças até 06 anos, vocês tem também o dia do aniversário de seu filhote como DayOff para tornar a conexão dessa família ainda mais forte!",
-    "careerPageId": 56806,
-    "careerPageName": "LIGGA",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/5252/career/56806/images/2023-10-24_15-57_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-15T18:25:08.203Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Curitiba",
-    "state": "Paraná",
-    "country": "Brasil",
-    "jobUrl": "https://liggatelecom.gupy.io/job/eyJqb2JJZCI6OTQ3MDcyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://liggatelecom.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9520393,
     "companyId": 474,
     "name": "[Ambev Global Tech] Especialista de Monitoramento e Governança de Dados ",
@@ -8855,29 +8464,6 @@
     "careerPageUrl": "https://minervatech.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9507279,
-    "companyId": 119,
-    "name": "Vendas - Analista de Dados e Produtividade Comercial (Grande Florianópolis/SC)",
-    "description": "Nossa gente aqui na Ambev sonha GRANDE! Somos milhares de apaixonados pelo que fazemos. Nosso maior objetivo é inovar no setor de bebidas com a maior qualidade e diversidade possível, para que você possa brindar qualquer ocasião escolhendo o que mais gosta!A nossa Cultura é focada em construir um ambiente inclusivo e colaborativo, onde as pessoas possam ser o melhor delas mesmas! Gente é o nosso maior ativo, afinal sabemos que investir no potencial de nossos colaboradores é trazer ainda mais qualidade ao nosso negócio e às nossas bebidas. Por isso, estamos sempre em busca de talentos diversos, dispostos a construir esse grande sonho com a gente de unir as pessoas por um mundo melhor.Prazer, somos a Ambev e adoraríamos te ter com a gente.Responsabilidades e atribuiçõesA rotina de um Analista de Dados e Produtividade Comercial do Auto Serviço consiste em:Ser o(a) dono(a) da gestão da performance da conta das redes junto do Gerente de Negócios.Atuar frente aos indicadores comerciais e de performance das redes.Atuar na ponte com o time da logística.Garantir a excelência nos resultados por meio da gestão.Acompanhar o(a) Gerente de Negócios em reuniões de rede e rota semanalmente.Requisitos e qualificaçõesFormação:Ensino Superior Completo (ou no mínimo no penúltimo semestre).Exigências:- Informática (Pacote Office, principalmente Excel) - nível avançado;- Power BI - nível intermediário (no mínimo).- Possuir CNH B ou AB definitiva, conduzir carro, com menos de 8 pontos e nenhuma multa gravíssima nos últimos 12 meses.Competência desejável:Habilidades de negociação.Boa comunicação interpessoal.Informações adicionaisHoje na AMBEV nós trabalhamos com os melhores benefícios para você e também para os seus dependentes legais! Aqui na companhia nós conseguimos te proporcionar:Mais cuidado com a sua saúde&nbsp;através de Plano Médico, Odontológico, Telemedicina, Seguro de Vida e Gympass;Saúde mental&nbsp;com os aplicativos NAV Dasa e Gente 360;Consumir nossos produtos com um super desconto (é isso mesmo, nós temos&nbsp;venda de produtos para funcionários no precinho!);Reuniões de final de ano com a família ainda mais prazerosas, pois oferecemos&nbsp;Cesta de Natal&nbsp;e ainda brinquedo para quem tem filhos;Proteção financeira com a nossa&nbsp;previdência privada;A possibilidade de você fazer um bom mercado ou comer no restaurante que você gosta com&nbsp;Vale Alimentação ou Refeição, pois você poderá optar por um destes benefícios;O&nbsp;vale transporte&nbsp;é opcional e você pode conferir no modelo da vaga;Ter a oportunidade de receber um abono assiduidade, que nada mais é do que o&nbsp;14º salário&nbsp;para nossos colaboradores, um salário extra no ano!;Auxílio Creche&nbsp;ou&nbsp;Auxílio babá;Participação dos Lucros&nbsp;da companhia.Além de sonhar, se desenvolver, construir e crescer dentro de um ambiente meritocrático e inclusivo e ser capaz de fazer a diferença unindo as pessoas por um mundo melhor!",
-    "careerPageId": 20,
-    "careerPageName": "Ambev",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/119/career/20/images/2020-05-05_14-17_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-14T21:02:44.936Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Palhoça",
-    "state": "Santa Catarina",
-    "country": "Brasil",
-    "jobUrl": "https://ambev.gupy.io/job/eyJqb2JJZCI6OTUwNzI3OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://ambev.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9516031,
     "companyId": 345,
     "name": "Analista de Dados - Faturamento | Maxpar ",
@@ -8945,29 +8531,6 @@
     "disabilities": false,
     "workplaceType": "on-site",
     "careerPageUrl": "https://vilanova.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9507132,
-    "companyId": 165,
-    "name": "Engenheiro(a) de Dados Sênior - GCP",
-    "description": "Quer fazer a diferença na nova economia e transformar pessoas e negócios para prosperarem? Vem pra Cadastra!Procuramos um(a) Engenheiro(a) de Dados Sênior, com especialização profunda no ecossistema Google Cloud Platform (GCP), para liderar o design, a construção e a otimização de nossas soluções de dados na nuvem.Como pessoa de referência para as melhores práticas de engenharia de dados em GCP, seu papel será crucial para criar uma arquitetura de dados escalável, resiliente e de alta performance. Você irá desenvolver frameworks e ferramentas para suportar o crescimento acelerado de um dos nossos clientes, garantindo que toda a organização possa alavancar o poder do BigQuery, Dataflow e Cloud Composer para impulsionar a tomada de decisões.Esta posição é para atuar de forma 100% remota.Responsabilidades e atribuiçõesNo nosso Data Hub você terá o desafio de:Projetar, desenvolver e gerenciar pipelines de dados (ETL/ELT) robustos e escaláveis, utilizando Dataflow, Dataproc (Spark) e/ou Cloud Data Fusion.Modelar, construir e otimizar nosso Data Warehouse e Data Lake no Google BigQuery e Google Cloud Storage, aplicando as melhores práticas de performance e custo.Orquestrar fluxos de trabalho de dados complexos utilizando o Cloud Composer (Apache Airflow gerenciado).Implementar a ingestão de dados em tempo real (streaming) com Pub/Sub e Dataflow.Implementar e zelar pela governança, segurança e qualidade dos dados na plataforma GCP, utilizando ferramentas como Dataplex, Data Catalog e Secret Manager.Automatizar o provisionamento e o gerenciamento da infraestrutura de dados (IaC), preferencialmente com Terraform.Monitorar a performance e os custos dos serviços de dados em GCP, propondo e implementando otimizações contínuas.Atuar como referência técnica para o time e para o cliente, colaborando com equipes de Analytics e Ciência de Dados para otimizar o consumo dos dados.Requisitos e qualificaçõesO que a Cadastra espera de você:Sólida experiência comprovada como Engenheiro(a) de Dados, com foco profundo no ecossistema Google Cloud Platform.Domínio de Python e SQL aplicados ao desenvolvimento de soluções de engenharia de dados em larga escala.Experiência prática com as principais ferramentas do GCP: BigQuery (modelagem, otimização de queries, particionamento), Dataflow e/ou Dataproc (Spark), Cloud Composer (Airflow) e Cloud Storage.Experiência com automação e práticas de CI/CD (ex: GitHub Actions, Cloud Build) e Infraestrutura como Código (IaC), preferencialmente com Terraform.Vivência com extração de dados via APIs e modelagem de processos ETL/ELT (sanitização, unificação, agregação de dados).Diferenciais:Certificação Google Cloud Professional Data Engineer.Experiência com ingestão e modelagem de dados de sistemas SAP (ECC, SF) e/ou em domínios de negócio de RH.Experiência com tecnologias de containerização (Docker, Kubernetes/GKE) no contexto de aplicações de dados.Conhecimento em implementação de ingestão de dados via streaming com Pub/Sub.Experiência com metodologias ágeis de desenvolvimento.Informações adicionaisO que oferecemos:Vale alimentação e refeição no cartão FLASH🥗Auxílio Home Office no cartão FLASH 💳Plano de saúde de acordo com a sua localidade 🩺Plano odontológico de acordo com a sua localidade 🦷Day off de aniversário + valor depositado no cartão FLASH🎉Licença-maternidade e paternidade estendida 🍼Participação nos lucros (PLR) 💰Seguro de vida 🧡Auxílio creche 👶Bônus por indicação 💰Vale-transporte 🚍Clude | Plataforma de Saúde 🩺Total Pass 🏋🏽‍♀️CRM Bônus 💸",
-    "careerPageId": 56,
-    "careerPageName": "Cadastra ",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/165/career/56/images/2025-05-14_13-33_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-14T19:17:06.846Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://cadastra.gupy.io/job/eyJqb2JJZCI6OTUwNzEzMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://cadastra.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9514941,
@@ -9154,98 +8717,6 @@
     "careerPageUrl": "https://ishtecnologia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9507354,
-    "companyId": 804,
-    "name": "Especialista de Dados ",
-    "description": "Já pensou em trabalhar em uma empresa que é...&nbsp;Líder de mercado em Comércio Exterior e referência em inovação, cultura inclusiva e compromisso com excelência;Pioneira em soluções 5PL;Dobrou o número de colaboradores nos últimos anos;Conquistou o selo&nbsp;GPTW&nbsp;(Great Place to Work) que nos certifica como um excelente lugar para se trabalhar;Reconhecida pelo Valor Inovação, do Valor Econômico, como umas das&nbsp;150 empresas mais inovadoras do Brasil;Premiada em 2023 como empresa B2B mais inovadora do setor de comércio;Tem um compromisso em fazer a diferença junto com seus colaboradores, apoiando o&nbsp;GRAACC&nbsp;e&nbsp;Instituto Velho Amigo;Com pilares que sustentam as nossas ações: inovação, excelência no atendimento ao cliente, desenvolvimento humano e comunicação.Responsabilidades e atribuiçõesComo você contribuirá com o nosso time?Será responsável por mapear, preparar, modelar e visualizar dados de diferentes fontes, transformando-os em dashboards e relatórios interativos que suportem decisões críticas das operações.Mapear&nbsp;fontes de dados via conexões com ERP (Conexos), Sistema de Gestão de Dados (Comexport Management System), planilhas eletrónicas etc.;Preparar dados no Power Query: extrair, limpar e carregar dados antes da modelagem;&nbsp;Modelar&nbsp;dados seguindo diretrizes conceituais da organização: criar tabelas, colunas, relações e medidas. definir tabelas centrais e correlacionadas; elaborar modelos lógicos e implementá-los fisicamente;Visualizar&nbsp;dados brutos modelados em dashboards esteticamente agradáveis e interativos,&nbsp;aplicar visualizações avançadas,&nbsp;gerenciar e proteger relatórios no Power BI, além de dar manutenção nos projetos existentes; eDesenvolver&nbsp;e aprimorar ferramentas em MS Excel/VBA que facilitem o dia a dia da equipe de Operações;Requisitos e qualificaçõesFique ligado nos requisitos da vaga! Pois é muito importante que você tenha:Superior completoExperiência anterior na função;Conhecimento avançado em MS Power BI, banco de dados,&nbsp;Querys SQL, Medidas em DAX;Conhecimento avançado em MS Excel e VBA;Conhecimento em Python e suas bibliotecas (panda, NumPy, TensorFlow etc);Familiaridade com Power Automate;Certificações Microsoft em Power BI; Excel ou Google Analytics serão um diferencial;&nbsp;Informações adicionaisÉ bom saber:Local de Trabalho: Vila Olímpia (ao lado da estação)Regime de contratação: CLT&nbsp;Pensando em qualidade de vida, cuidamos do seu bem-estar e de sua família. Fazendo parte do nosso time, contará com os seguintes benefícios:﻿Flexibilidade, por isso nosso&nbsp;modelo de trabalho é híbrido;Assistência médica e odontológica&nbsp;sem desconto de mensalidade para você e seus dependentes;Vale Refeição ou Alimentação mensal, ou Refeitório no local, dependendo da localização, e no final do ano tem crédito extra \\o/;Previdência privada&nbsp;para você que deseja se preparar para o futuro;Compartilhamos uma renda extra com base nos resultados da Cia e seu desempenho:&nbsp;PLR – participação nos lucros;Vidalink&nbsp;para cuidados com a saúde, facilitando a compra de medicamentos com subsídio de 50% pela empresa;Para gerar e compartilhar valor, disponibilizamos cursos e treinamentos em nossa plataforma e-learning&nbsp;Atlas – Universidade Corporativa, e para um crescente aprendizado contamos com&nbsp;Incentivo Educação e Idiomas&nbsp;(conforme política vigente)Programa qualidade de vida: Incentivo a prática de esportes, Treinamento funcional, jogos coletivos, quick massage ou ginástica laboral, e GymPass;Seguro de vida&nbsp;para sua segurança e de sua família;Bazar parceiro: descontos em produtos de nossos clientes;Se você pensa em desenvolvimento de carreira, aqui você encontrará o&nbsp;Comex Movimenta, nosso programa de recrutamento interno;Para o seu desenvolvimento profissional contamos com o&nbsp;ciclo de Avaliação de Desempenho&nbsp;anual, rotinas de feedbacks e acompanhamento do seu plano de desenvolvimento;Para sua mobilidade oferecemos&nbsp;Vale transporte, estacionamento ou vans dependendo da Filial/ localidade.Gostou da oportunidade? Então, venha fazer parte do time COMEXPORT!!!Importante:&nbsp;as primeiras etapas do nosso processo seletivo serão realizadas pela plataforma&nbsp;Gupy. Você terá todos os retornos por e-mail, combinado? Fique de olho na sua caixa de entrada ou spam, para acompanhar sua evolução no processo. Te desejamos boa sorte!&nbsp;Nosso time é formado por pessoas que fazem da Comexport um lugar especial para se trabalhar, onde todos são tratados com igualdade. Junte-se a nós, um ambiente de trabalho que celebra a diversidade e promove a igualdade de oportunidades. Todas as pessoas são bem-vindas à Comexport!",
-    "careerPageId": 1066,
-    "careerPageName": "Grupo Comexport ",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/804/career/1066/images/logo.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T21:12:23.967Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://vemsercomexport.gupy.io/job/eyJqb2JJZCI6OTUwNzM1NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://vemsercomexport.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9506298,
-    "companyId": 487,
-    "name": "Consultor Segurança da Informação (Privacidade e Proteção de Dados) ",
-    "description": "Você sonha grande e acredita que é importante inovar para descomplicar?Então o seu lugar é na área de Tecnologia, Dados, Produtos e Design da maior rede integrada de saúde do Brasil, fazendo parte da vida de mais de 20 milhões de pessoas por ano.Nestes times você vai encontrar um ambiente dinâmico, ágil e com muito aprendizado, afinal, aqui aprendemos para transformar o futuro da saúde e a paixão por inovar que nos move.Para nós, diversidade importa!Reconhecemos que a diversidade amplia a inovação nos ambientes, mas acima de tudo, temos a certeza de que somos parte da transformação. Promovemos dignidade e respeito a todas as pessoas, para que se sintam seguras em ser quem são.Nossas oportunidades são para todas as pessoas que acreditam na transformação do futuro da saúde. Incentivamos a candidatura de todos que reconhecem a importância da construção de um ambiente livre de preconceitos, assédio e discriminação faça parte da transformação e #VemSerDasa. Juntos entregamos o nosso melhor sempre.Nossos talentos transformam e a gente #CresceJuntoNaDasa 🚀 💙#VemPraDasa #DasaLovers #VemSerDasa📌 Importante: não efetuamos cobranças de taxas em nossos processos seletivosResponsabilidades e atribuiçõesRequisitos obrigatórios:&nbsp;Experiência em Privacidade e Proteção de dados (Lei Geral de Proteção de Dados - LGPD);Mapear processos, riscos e controles internos, conduzindo entrevistas que deverão ser realizadas com cada colaborador envolvido no processo que será avaliado por meio de avaliações de riscos de privacidade e proteção de dados (RoPA, Privacy by Design, RIPD, LIA customizada na ferramenta OneTrust). Adicionalmente apoiar as áreas na elaboração de planos de mitigação, acompanhar a implementação dos planos junto aos responsáveis e elaborar reportes que demonstrem o nível de mitigação dos riscos periodicamente;Implementar a estratégia da gestão de mudança organizacional em parceria com as áreas de Governança de Segurança da Informação, Gestão de Crises, Continuidade de Negócios e Jurídico por meio da elaboração e aplicação de treinamentos, comunicações internas e disseminação, através dos canais internos de informações educativas sobre o tema de Privacidade e Proteção de Dados e das iniciativas do Programa de Privacidade;Realizar a gestão de incidentes de privacidade da Dasa mediando junto aos times responsáveis o tratamento do risco residual, mitigação do risco inerente, reporte aos comitês e demais partes interessadas conforme nível de risco do evento;Experiência em proteção de dados e privacidade, com atuação em processos de prevenção à perda de dados (DLP) e conformidade regulatória;Acompanhar e reportar indicadores do programa de privacidade mensalmente;Atender as demandas das áreas de negócio de forma consultiva viabilizando o desenvolvimento de produtos e processos de negócio que atendam aos requisitos da LGPD;Preencher avaliações de clientes / prospects sobre o nível de maturidade do programa de privacidade da Dasa;Realizar o atendimento de solicitações de titulares conforme os direitos pré-estabelecidos pela LGPD;&nbsp;Avaliar solicitações de acesso a dados conforme diretrizes da LGPD;Atender auditoria interna e externa.&nbsp;Requisitos e qualificaçõesRequisitos desejáveis:Ensino superior completo em áreas correlatas: Tecnologia da Informação, Engenharias e Direito (se tiver formação posterior em tecnologias/pós);Experiência na manutenção dos módulos da Ferramenta OneTrust ou similares que regem os processos do programa de Privacidade;Habilidade para trabalhar de forma colaborativa com áreas técnicas, jurídicas e de negócio;Excel intermediário a avançado;&nbsp;&nbsp;Inglês Avançado será um diferencial.Informações adicionaisAqui na Dasa,&nbsp;levamos tecnologia para a vida das pessoas.A saúde é uma área complexa, e na Dasa buscamos fazer diferente.&nbsp;Utilizamos dados, tecnologia e inovação para simplificar o setor e cuidar das pessoas por inteiro.Você já pensou em trabalhar com Tecnologia de ponta, Dados, Produtos e Design na maior de de saúde do Brasil? Aqui,&nbsp;somos inovadores(as)!&nbsp;Estamos em busca de criar um novo jeito de fazer saúde com pessoas à frente do tempo.Para nós, diversidade importa!Reconhecemos que a diversidade amplia a inovação nos ambientes, mas acima de tudo, temos a certeza de que somos parte da transformação. Promovemos dignidade e respeito a todas as pessoas, para que se sintam seguras em ser quem são.&nbsp;Nossas oportunidades são para todas as pessoas que acreditam na transformação do futuro da saúde. Incentivamos a candidatura de todos que reconhecem a importância da construção de um ambiente livre de preconceitos, assédio e discriminação faça parte da transformação e #VemSerDasa. Juntos entregamos o nosso melhor sempre.Ser Dasa é ser a pessoa que transforma o futuro da saúde!&nbsp;💙🚀﻿📲 Para ter acesso a mais oportunidades acesse:&nbsp;dasa.com.br/carreira📌Importante: não efetuamos cobranças de taxas em nossos processos seletivos.",
-    "careerPageId": 32086,
-    "careerPageName": "Dasa Tecnologia",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/487/career/32086/images/2024-10-24_14-20_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T19:04:13.777Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://dasatecnologia.gupy.io/job/eyJqb2JJZCI6OTUwNjI5OCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://dasatecnologia.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9480500,
-    "companyId": 537,
-    "name": "Estagiário(a) de Dados e Operações Educacionais (Gente & Gestão)",
-    "description": "O Elite busca um Estagiário(a) para se integrar ao nosso time de Gente &amp; Gestão Educacional. Se você possui um perfil analítico, boas habilidades de comunicação e sonha em transformar vidas por meio da educação, com muita Garra em cada desafio, esta é a oportunidade ideal para você!Há 25 anos, somos movidos por um único objetivo:&nbsp;transformar vidas por meio da educação. Somos uma família de professores, coordenadores, diretores e colaboradores que acreditam na educação como a melhor maneira de formar crianças e jovens vencedores, capazes de conquistar seu próprio sucesso, no campo em que desejarem.Juntos com nossos mais de 40 mil alunos e familiares, formamos uma família ainda maior e com valores fortes, vividos a todo momento em cada uma das nossas escolas –&nbsp;AMOR, GARRA, FOCO&nbsp;e&nbsp;MÉRITO.Responsabilidades e atribuiçõesPrincipais Atividades:Processo de Pagamento:&nbsp;Apoiar no processo de folha de pagamento de professores, em parceria com outras áreas;Construção do Horário de Aulas:&nbsp;Realizar o processo de construção do Horário de Aulas dos Professores para o ano de 2026 para parte de nossas escolas, importantíssimo para a satisfação dos professores e dos alunos;Contratação:&nbsp;Auxiliar na divulgação de vagas e na triagem de currículos, garantindo uma seleção eficaz de candidatos para novas posições de docentes de nossas unidades.Gestão de Orçamento:&nbsp;Apoiar a gerência na administração do orçamento dos professores da rede, monitorando e alocando recursos de forma eficiente para atender às necessidades de nossas unidades.Comunicação:&nbsp;Assegurar uma comunicação clara e eficaz com as lideranças das unidades e outras áreas da empresa para garantir a coordenação e a eficiência dos processos da área de G&amp;G Educacional.Requisitos e qualificaçõesEstar cursando Graduação em Engenharias, Administração, Economia e áreas correlatas.Previsão de Formatura a partir de maio/2027.Habilidades Analíticas:&nbsp;Capacidade de lidar com números e dados para processos operacionais (como folha de pagamento e construção de horários) e para realizar análises que forneçam insights estratégicos para a tomada de decisão.Excel Intermediário:&nbsp;conhecimento de funções básicas e intermediárias; importante para tratar e analisar dados de forma eficiente.Comunicação Eficaz:&nbsp;Boa comunicação escrita e verbal, com abordagem assertiva e não-violenta com as lideranças de unidades e outras áreas da empresa.Informações adicionaisVocê se destacará se apresentar:Organização:&nbsp;Organizado e atento aos detalhes, com boa gestão do tempo.Perfil Resolutivo:&nbsp;Capacidade de abordar questões de maneira proativa e voltada para a solução;Adaptabilidade e Inteligência Emocional:&nbsp;Disposição e habilidade para se adaptar a mudanças, desafios e novas situações rapidamente, mantendo a eficácia e a qualidade do trabalho.Trabalho em Equipe:&nbsp;Capacidade para trabalhar bem em equipe e manter uma atitude colaborativa em ambientes dinâmicos.Desenvolvimento Contínuo:&nbsp;Disposição para aprender e se desenvolver continuamente.Informações adicionais🕛 Horário de trabalho: 30 horas semanais.📍 Local: Barra da Tijuca - Rio de Janeiro (RJ).⬇️ Nós oferecemos:🚍 Vale-Transporte;💻Trabalho Híbrido: presencial 2x por semana e home office 3x por semana;💡 Auxílio Home Office;📊 Participação nos Lucros e Resultados (PLR);🎂 Day off no mês do aniversário para essa data não passar sem festa;📚 Ambiente Salta de Aprendizagem: Cursos gratuitos sobre liderança e comunicação que vão alavancar sua carreira!;",
-    "careerPageId": 3411,
-    "careerPageName": "Elite",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/537/career/3411/images/2021-02-02_21-04_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T18:35:56.426Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "country": "Brasil",
-    "jobUrl": "https://elite.gupy.io/job/eyJqb2JJZCI6OTQ4MDUwMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://elite.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9494066,
-    "companyId": 1709,
-    "name": "ANALISTA DADOS PLENO",
-    "description": "Se o olho brilha, vem ser BernoulliSomos feitos de pessoas que acreditam no poder transformador da educação. Gente criativa, determinada e que gosta de aprender. Profissionais que enxergam os desafios como oportunidades para inovar, gerar ideias, soluções e impulsionar o conhecimento.Tudo isso em um ambiente onde as diferenças se encontram, dialogam e trabalham em equipe. Um ambiente acolhedor, plural e dinâmico, onde as pessoas são motivadas a se desenvolver para evoluir, prosperar e alcançar seus objetivos.Se seu olho brilha para novos desafios e você quer fazer parte de uma cultura em transformação, em uma empresa que não para de crescer, venha ser Bernoulli!Venha revolucionar a educação junto com a gente!Responsabilidades e atribuiçõesDesenvolver e&nbsp;implementar&nbsp;análises de dados, sistemas de coleta de dados e outras estratégias que otimizem a eficiência e a qualidade estatística.Produzir e sustentar relatórios a partir das ferramentas disponibilizadas pela empresa, a fim de melhorar a coleta de dados em forma sistêmica, assim como a atualização delas, mantendo as informações uma representação da realidade do setor.&nbsp;Interpretar dados, analisar resultados e utilizar técnicas estatísticas, assim como contribuir com ideias e identificação de oportunidade e ameaças, a partir da geração de dados, com desdobramento da informação, sugestão de plano de ação a fim de apoiar nas estratégias do setor.&nbsp;Apoiar na otimização e identificação dos problemas e oportunidades dos processos da Diretoria de Produto e Tecnologia a fim de melhorar o andamento das atividades e trazer valor para o produto.Realizar a análise de indicadores da Diretoria de Produto e Tecnologia no intuito de propor evolução e atingimento das metas claras ao time.Promoção da cultura de “data first” na Diretoria de Produtos Educacionais e Tecnologia a fim de incentivar o uso de dados confiáveis e fidedignos para a toma de decisões nos squads da área, adotando postura questionadora, e auxiliando a tomada de decisões dos cargos de liderança.&nbsp;         O modelo de trabalho da vaga é:CLT, Híbrido (para candidatos de BH e região), ou remoto (demais localidades).&nbsp;Carga horária: 44h semanais, de segunda a quinta-feira das 08h às 18h e sexta-feira das 08h às 17h.Requisitos e qualificaçõesFormação acadêmica: Superior completo em Estatística, Ciências da Informação ou Superior em Tecnologia em Big Data e Data Science, Engenharia de Computação, Engenharia de Software, Ciência da Computação e áreas afins.Experiência prática com ferramentas e linguagens de programação relevantes, como Python, R, SQL, ou outras ferramentas estatísticas.Fortes habilidades em manipulação e análise de dados. Experiência avançada em Excel.Conhecimento avançado em ferramentas de warehousing e visualização de dados, como Power BI ou matplotlib/seaborn em Python.Experiência em bancos de dados SQL e capacidade de escrever consultas complexas.Capacidade de interpretar dados e extrair insights significativos.Análise exploratória de dados (EDA) e modelagem estatística.Resolução de problemas analíticos complexos.Familiaridade com ferramentas de data integration como Pentaho. Experiência em ambientes de computação em nuvem (especialmente Azure).Informações adicionais🩺 Plano de saúde🦷 Plano odontológico💙 Seguro de vida🍴 Vale-alimentação e refeição no mesmo cartão☕️ Café da manhã ou lanche da tarde nas unidades físicas🚍 Vale-transporte🏋️‍♂️ Total Pass e Wellhub (acesso a academias e serviços on-line de atividades físicas)🎂 Day off no aniversário👰 Presente de casamento📖 Universidade corporativa🤰🏽 Programa de acompanhamento a pessoas gestantes☎️ Programa de orientação psicológica, jurídica, financeira e social&nbsp;Proteção de dados muda tudoDurante o processo de seleção de candidatos para o preenchimento das nossas posições de trabalho, utilizaremos seus dados pessoais cadastrados na plataforma Gupy.Todas essas informações coletadas serão tratadas de acordo com rigorosos padrões de segurança da informação e em total respeito às leis de privacidade aplicáveis, entre elas a Lei Geral de Proteção de Dados Pessoais (LGPD) nº 13.709/18, bem como os termos de nossa política de privacidade, disponível no endereço:https://www.bernoulli.com.br/bernoulli-educacao/info/pol%C3%ADtica-de-privacidade/Caso não seja admitido na vaga para a qual se candidatou, seus dados pessoais permanecem em nossos bancos de dados, seguindo os mesmos parâmetros acima destacados, a fim de que possam ser considerados no caso de oportunidades futuras.Se desejar seguir em nosso processo de seleção, você declara estar ciente e de acordo para realização de sua candidatura nessas condições.",
-    "careerPageId": 2762,
-    "careerPageName": "Bernoulli Educação",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/1709/career/2762/images/2021-03-11_16-02_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T18:30:33.751Z",
-    "applicationDeadline": "2025-09-07T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://bernoullieducacao.gupy.io/job/eyJqb2JJZCI6OTQ5NDA2Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://bernoullieducacao.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9500238,
     "companyId": 45247,
     "name": "Especialista de Dados ",
@@ -9267,29 +8738,6 @@
     "disabilities": true,
     "workplaceType": "on-site",
     "careerPageUrl": "https://bydbrasil.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9504896,
-    "companyId": 62374,
-    "name": "Analista Dados Pleno ",
-    "description": "Excelente porque somos plurais! Cada pessoa que compõe a BP tem uma história de vida, uma trajetória, uma visão de mundo. E ao somarmos essas visões, vemos os desafios que temos de outros ângulos trazendo novas respostas para as velhas perguntas, e ajudando a fazer novas perguntas. É dessa forma que a inovação está sempre presente, de uma forma prática, funcional e que melhora a vida das pessoas. E assim vamos engrandecendo o nosso jeito de ser BP.Responsabilidades e atribuiçõesResponsável por realizar consistência do banco de dados e estruturar o processo de análise de forma adequada de acordo com as variáveis disponíveis, de acordo com as diretrizes regulatórias de pesquisa vigentes para que o projeto seja executado de forma ética e legal, cumpra as atividades no tempo previsto no cronograma, e contribua para que os objetivos sejam alcançados com eficiência e qualidade.Criar fichas de coleta no sistema RedCap garantindo o melhor fluxo operacionalManipular e tratar bases de dados com as informações, garantindo a qualidade e consistência dos resultados esperadosProcessar dados não estruturados em formato adequado para análise.Criar dashboards e relatórios necessários para acompanhamento do andamento do projeto.Criar rotinas para automatizar a extração e processamento de dados.Desenvolver modelos estatísticos utilizando ferramentas tecnológicas.Participar da elaboração de planos de ação para mitigação dos riscos e desvios identificados na coleta e processamento dos dados.Participar de reuniões para acompanhamento do andamento do projeto.Acompanhar os indicadores junto à equipe interna, reportando as dificuldades ao coordenadorParticipar de reuniões com a squad de dadosRealizar treinamentos e construir materiais informativos, quando necessário.Requisitos e qualificaçõesFormação: Obrigatória: Graduação completa em Sistemas de Informação, Estatística, Epidemiologia ou áreas da Saúde com atuação comprovada em análise de dados.Desejável: Pós-graduação em Tecnologia da Informação, Matemática Computacional, Ciência de Dados ou Estatística.Especialização e Conhecimentos Técnicos:Domínio do Pacote Office, com ênfase em Excel avançadoSQL e conhecimentos em infraestrutura de bancos de dados relacionais e não relacionaisFamiliaridade com Big Data, análise de dados e bioestatísticaObrigatórios: RedCap, Power BI e SQLExperiência: Vivência consistente em projetos e atividades envolvendo análise e interpretação de dados, com participação em ambientes que demandam raciocínio analítico, organização de bases e apoio à tomada de decisão com foco em indicadores.Informações adicionaisCarga Horária:&nbsp;08:00 as 18:00 segunda a quinta - feira e 08:00 ás 17:00 (Sex) - 44hs - 220hsLocal de Trabalho:&nbsp;&nbsp;Unidade Frei CanecaModelo de trabalho:&nbsp;Hibrido sendo 3x presencial e 2x home office;Projeto:&nbsp;Vita-TEA (PRONAS) -&nbsp;[[ Duração de 18 Meses]]﻿O que oferecemos?Vale TransporteVale AlimentaçãoRefeitório no localAssistência MédicaAssistência OdontológicaAuxílio CrecheTotal Pass: Uma plataforma de benefícios que dá acesso a academias e estúdios de diversas modalidades para o colaborador e dependentes.Viva 365: Ações e programas no âmbito das 5 saúdes - emocional, intelectual, físico, social e financeiro. Tais como:Programas de saúde da mulher (acompanhamento de gestantes e planejamento familiar), ações de ergonomia e ginástica laboral, parceria SESC – Programação Bem-Estar, espaço do colaborador, corrida e caminhada.PAP (Programa de Apoio Pessoal)- canal de comunicação formado por uma ampla equipe de especialistas (psicólogos, assistentes sociais, advogados, pedagogos, nutricionistas, fisioterapeutas, educadores físicos, consultores financeiros e pet consultores).Núcleo de Saúde do Colaborador- serviço de telemedicina, pronto atendimento e agendamentos exclusivo para colaboradores com médicos generalistas, psicólogos, fisioterapeutas e acupuntura dentro da BP.Dia do profissional da saúde: 12 de Maio é considerado feriado para a categoria, colaboradores que trabalharem nesta data terão direito a compensação conforme critérios definidos em Convenção Coletiva.Convênios e parcerias: Parceria com estabelecimentos de diversos segmentos para desconto, acesse a lista atualizada no Workplace, nosso canal de comunicação interna.",
-    "careerPageId": 146563,
-    "careerPageName": "BP - A Beneficência Portuguesa de São Paulo",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/62374/career/146563/images/2023-04-09_16-09_companyLogoUrl.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T16:23:56.405Z",
-    "applicationDeadline": "2025-09-09T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://vemserbp.gupy.io/job/eyJqb2JJZCI6OTUwNDg5Niwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://vemserbp.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9448769,
@@ -9338,98 +8786,6 @@
     "careerPageUrl": "https://vemsergrupoolx.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9503974,
-    "companyId": 7066,
-    "name": "Visagio Talentos - Estágio: Engenheiro(a) de Dados SP",
-    "description": "Destinado a universitários dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins, que desejam se desenvolver especificamente na área de Engenharia de Dados.Nossa equipe atua em contextos variados, sempre com o objetivo de aprimorar a tomada de decisões e a eficiência operacional através do uso inteligente e inovador dos dados.Responsabilidades e atribuiçõesAtuar na modelagem, coleta, limpeza e transformação de dados provenientes de diversas fontes;Suportar a construção e manutenção de pipelines de dados utilizando ferramentas de ETL;Colaborar com equipes multidisciplinares para entender e atender às necessidades de dados do negócio;Participar da criação e otimização de bancos de dados, data lakes e data warehouses;Apoiar na definição e implementação de arquitetura de dados que suportem as necessidades dos clientes;Ajudar na implementação de políticas de governança de dados para garantir a qualidade, segurança e integridade dos dados;Contribuir para a documentação dos processos e fluxos de dados;Participar da modelagem de dados para soluções de GenAI/AI, estruturando dados para algoritmos de aprendizado de máquina.Requisitos e qualificaçõesPessoas em graduação - a partir do 3º ano dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins; Estamos buscando pessoas com ou sem experiência, então fique tranquilo, nosso time está aqui para lhe ajudar na formação ;) Desejável conhecimento básico em metodologias ágeis, SQL, banco de dados, Python(Pandas)/ferramentas de ETL e ferramentas de visualização de dados;É um diferencial o conhecimento em arquitetura de dados, soluções de nuvem, estruturas de armazenamento de dados (como data lake/data warehouse/lakehouse) e modelos de AI/Gen AI.Informações adicionaisConforme necessidade, alguns candidatos, que concluírem todas as etapas online, poderão ser convocados antecipadamente para a etapa de entrevistas.",
-    "careerPageId": 165131,
-    "careerPageName": "v(dev)",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/7066/career/165131/images/2023-12-15_17-31_companyLogoUrl.png",
-    "type": "vacancy_type_internship",
-    "publishedDate": "2025-07-11T14:22:30.573Z",
-    "applicationDeadline": "2025-09-07T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://vdev.gupy.io/job/eyJqb2JJZCI6OTUwMzk3NCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": false,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://vdev.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9503942,
-    "companyId": 7066,
-    "name": "Visagio Talentos - Estágio: Engenheiro(a) de Dados RJ",
-    "description": "Destinado a universitários dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins, que desejam se desenvolver especificamente na área de Engenharia de Dados.Nossa equipe atua em contextos variados, sempre com o objetivo de aprimorar a tomada de decisões e a eficiência operacional através do uso inteligente e inovador dos dados.Responsabilidades e atribuiçõesAtuar na modelagem, coleta, limpeza e transformação de dados provenientes de diversas fontes;Suportar a construção e manutenção de pipelines de dados utilizando ferramentas de ETL;Colaborar com equipes multidisciplinares para entender e atender às necessidades de dados do negócio;Participar da criação e otimização de bancos de dados, data lakes e data warehouses;Apoiar na definição e implementação de arquitetura de dados que suportem as necessidades dos clientes;Ajudar na implementação de políticas de governança de dados para garantir a qualidade, segurança e integridade dos dados;Contribuir para a documentação dos processos e fluxos de dados;Participar da modelagem de dados para soluções de GenAI/AI, estruturando dados para algoritmos de aprendizado de máquina.Requisitos e qualificaçõesPessoas em graduação - a partir do 3º ano dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins; Estamos buscando pessoas com ou sem experiência, então fique tranquilo, nosso time está aqui para lhe ajudar na formação ;) Desejável conhecimento básico em metodologias ágeis, SQL, banco de dados, Python(Pandas)/ferramentas de ETL e ferramentas de visualização de dados;É um diferencial o conhecimento em arquitetura de dados, soluções de nuvem, estruturas de armazenamento de dados (como data lake/data warehouse/lakehouse) e modelos de AI/Gen AI.Informações adicionaisConforme necessidade, alguns candidatos, que concluírem todas as etapas online, poderão ser convocados antecipadamente para a etapa de entrevistas.",
-    "careerPageId": 165131,
-    "careerPageName": "v(dev)",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/7066/career/165131/images/2023-12-15_17-31_companyLogoUrl.png",
-    "type": "vacancy_type_internship",
-    "publishedDate": "2025-07-11T14:19:12.495Z",
-    "applicationDeadline": "2025-09-07T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "country": "Brasil",
-    "jobUrl": "https://vdev.gupy.io/job/eyJqb2JJZCI6OTUwMzk0Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": false,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://vdev.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9503852,
-    "companyId": 7066,
-    "name": "Visagio Talentos - Estágio: Engenheiro(a) de Dados NE",
-    "description": "Destinado a universitários dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins, que desejam se desenvolver especificamente na área de Engenharia de Dados.Nossa equipe atua em contextos variados, sempre com o objetivo de aprimorar a tomada de decisões e a eficiência operacional através do uso inteligente e inovador dos dados.Responsabilidades e atribuiçõesAtuar na modelagem, coleta, limpeza e transformação de dados provenientes de diversas fontes;Suportar a construção e manutenção de pipelines de dados utilizando ferramentas de ETL;Colaborar com equipes multidisciplinares para entender e atender às necessidades de dados do negócio;Participar da criação e otimização de bancos de dados, data lakes e data warehouses;Apoiar na definição e implementação de arquitetura de dados que suportem as necessidades dos clientes;Ajudar na implementação de políticas de governança de dados para garantir a qualidade, segurança e integridade dos dados;Contribuir para a documentação dos processos e fluxos de dados;Participar da modelagem de dados para soluções de GenAI/AI, estruturando dados para algoritmos de aprendizado de máquina.Requisitos e qualificaçõesPessoas em graduação - a partir do 3º ano dos cursos de Ciência da Computação, Engenharias, Sistemas de Informação e afins; Estamos buscando pessoas com ou sem experiência, então fique tranquilo, nosso time está aqui para lhe ajudar na formação ;) Desejável conhecimento básico em metodologias ágeis, SQL, banco de dados, Python(Pandas)/ferramentas de ETL e ferramentas de visualização de dados;É um diferencial o conhecimento em arquitetura de dados, soluções de nuvem, estruturas de armazenamento de dados (como data lake/data warehouse/lakehouse) e modelos de AI/Gen AI.Informações adicionaisConforme necessidade, alguns candidatos, que concluírem todas as etapas online, poderão ser convocados antecipadamente para a etapa de entrevistas.",
-    "careerPageId": 165131,
-    "careerPageName": "v(dev)",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/7066/career/165131/images/2023-12-15_17-31_companyLogoUrl.png",
-    "type": "vacancy_type_internship",
-    "publishedDate": "2025-07-11T14:16:14.847Z",
-    "applicationDeadline": "2025-09-07T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Recife",
-    "state": "Pernambuco",
-    "country": "Brasil",
-    "jobUrl": "https://vdev.gupy.io/job/eyJqb2JJZCI6OTUwMzg1Miwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": false,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://vdev.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9476555,
-    "companyId": 31849,
-    "name": "ANALISTA DE DADOS DE MARKETING SR – AFIRMATIVA PARA PESSOAS NEGRAS – SÃO PAULO/SP",
-    "description": "A Saber Idiomas cuida de marcas que buscam levar o melhor ensino de inglês para crianças e adolescentes de todo o Brasil. Na Red Balloon, tradicional escola de inglês com 55 anos de história e mais de 70 unidades, ensinamos alunos dos 3 aos 17 anos com uma metodologia única e referência no mercado. Com Skies Learning, entramos em escolas privadas de todo o país com um programa bilíngue robusto e diferenciado. E com Wings, buscamos alcançar estudantes da rede pública com uma solução de ensino que faz a diferença no seu desenvolvimento enquanto cidadãos.Responsabilidades e atribuições•\tColetar, organizar e analisar grandes volumes de dados de diversas fontes (CRM, redes sociais, campanhas de marketing etc.).•\tDesenvolver e manter dashboards e relatórios de BI para monitorar o desempenho das campanhas de marketing e KPIs.•\tUtilizar ferramentas de BI (Power BI, Data Studio etc.) para visualizar dados e facilitar a compreensão dos resultados.•\tAnalisar o desempenho das campanhas de marketing e fornecer recomendações para otimização.•\tTrabalhar em estreita colaboração com os times de produto e comercial para garantir a integração e alinhamento das estratégias de dados.•\tApresentar insights e recomendações aos stakeholders de forma clara e objetiva.•\tImplementar processos de automação para coleta e análise de dados.•\tMonitorar continuamente o desempenho das campanhas e KPIs de negócio e fornecer relatórios regulares.Requisitos e qualificações•\tGraduação em Ciência de Dados, Marketing, Administração ou áreas relacionadas.•\tExperiência comprovada em análise de dados, business intelligence e customer insights.•\tProficiência em ferramentas de BI (Power BI, Data Studio, etc.) e análise de dados Excel;•\tHabilidades analíticas e de resolução de problemas.•\tExcelente comunicação e capacidade de apresentar dados complexos de forma clara e acionável.•\tMentalidade de crescimento e foco no cliente•\tExperiência em marketing digital e otimização de campanhas é um diferencial.Informações adicionaisModelo de Trabalho Híbrido: 3x no escritório da Av. Paulista/SP.O que você pode esperar da gente?&nbsp;Participação nos lucros:&nbsp;resultados com comemoração fazem parte do jeito Cogna.Vale-refeição ou alimentação:&nbsp;num cartão de benefícios flexível.&nbsp;Assistência médica: um abrangente plano de saúde, com inclusão de dependentes e coparticipação.&nbsp;Assistência odontológica: está disponível para manter seu sorriso. Mas espera, ainda tem mais!&nbsp;&nbsp;Bolsas de estudo de graduação e pós graduação: nossas unidades de ensino para que você e seus dependentes (cônjuge e filhos).&nbsp;&nbsp;&nbsp;Day off no aniversário: você poderá escolher um dia para relaxar e celebrar.&nbsp;Convênio SESC: abre as portas para as inúmeras oportunidades de melhora na qualidade de vida.&nbsp;Convênio farmácia Univers: descontos numa variedade de medicamentos.&nbsp;Universidade corporativa: diversas trilhas e cursos gratuitos na nossa universidade corporativa para você seguir evoluindo com a gente.&nbsp;&nbsp;Descontos em livros:&nbsp;para você adquirir os melhores títulos em nossas editoras.&nbsp;&nbsp;Wellhub (Gympass): para que você possa se movimentar no seu dia a dia.&nbsp;Programa Ninho: Um programa dedicado às nossas famílias que estão aguardando um novo bebê.&nbsp;Valoriza - Programa de Recrutamento Interno:&nbsp;Para impulsionar sua carreira por meio de oportunidades internas.Aqui, acreditamos no respeito, na diversidade e na busca da inclusão em todas suas frentes. Todos os candidatos qualificados serão considerados independentemente de raça, gênero, identidade, expressão de gênero, orientação sexual, nacionalidade, genética, deficiência ou de qualquer outra base.&nbsp;Nosso propósito é avançar cada vez mais, gerando empregabilidade para talentos diversos. Venha enriquecer nosso time!&nbsp;",
-    "careerPageId": 132769,
-    "careerPageName": "Saber Educação",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/31849/career/132769/images/2023-02-02_13-14_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-11T12:53:06.665Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://saber.gupy.io/job/eyJqb2JJZCI6OTQ3NjU1NSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://saber.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9484158,
     "companyId": 36502,
     "name": "9484158 - ENGENHEIRO DE DADOS PLENO",
@@ -9451,75 +8807,6 @@
     "disabilities": true,
     "workplaceType": "remote",
     "careerPageUrl": "https://qualitydigital.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9496957,
-    "companyId": 50527,
-    "name": "Analista Banco de Dados Mid",
-    "description": "Nosso cliente é uma grande empresa do setor de retalho com atuação em Portugal e Espanha. Como líder em seu setor, a companhia investe massivamente em tecnologia para melhorar a experiência do seu cliente e, por isto, conta connosco para apoiá-la em um dos seus projetos de e-commerce.&nbsp;Se és um&nbsp;Analista de Banco de Dados e pretende desafiar suas skills em um ambiente de constante evolução, então é a pessoa certa para se juntar à FCamara neste projeto.Responsabilidades e atribuiçõesA pessoa que ocupar esta posição irá se integrar a uma equipa existente.&nbsp;Nesta posição irá ser responsável por atuar junto da equipa de desenvolvimento de uma aplicação para gestão de preços.Requisitos e qualificaçõesSendo um perfil Mid, é um requisito que tenhas&nbsp;pelo menos 3 anos de experiência&nbsp;de trabalho nesta posição.&nbsp;&nbsp;Tu és a pessoa certa se dispões destes conhecimentos para a posição se atender:&nbsp;Requisitos MandatóriosExperiência na modelação de bases de dados para aplicações web em PostgreSQL&nbsp;Requisitos DesejáveisExperiência prévia em equipas de desenvolvimento de sistemas&nbsp;Para além do conhecimento técnico, também esperamos que tenhas um perfil de&nbsp;colaboração&nbsp;e&nbsp;trabalho em equipa:Capacidade de entender os requisitos e as soluções técnicas&nbsp;Boas capacidades de comunicação&nbsp;Espírito de melhoria contínuaFoco na entrega e cumprimento de objetivosInformações adicionaisEsta posição requer que você&nbsp;resida em Portugal&nbsp;pois esta posição exigirá em média 2x/semana ao Cliente, que fica na região do&nbsp;Porto.&nbsp;Esta posição refere-se a um projeto de longa duração.&nbsp;Idiomas: Nesta posição, o trabalho e a relação com os colegas de FCamara e com a equipa do Cliente ocorrem em&nbsp;língua portuguesa. Conhecimento de língua inglesa é desejável.&nbsp;Modelo de Contratação: Temos flexibilidade no modelo de contratação. A pessoa de nossa equipa de recrutamento irá fornecer as informações e orientações sobre modelo contratual, remuneração e benefícios específicos de acordo com sua localidade.",
-    "careerPageId": 117226,
-    "careerPageName": "VENHA SER #SANGUELARANJA 🧡🚀",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/50527/career/117226/images/2022-12-05_17-18_logo.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-10T18:30:58.856Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Porto",
-    "state": "",
-    "country": "Portugal",
-    "jobUrl": "https://fcamara.gupy.io/job/eyJqb2JJZCI6OTQ5Njk1Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://fcamara.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9498810,
-    "companyId": 24526,
-    "name": "Analista de Dados Pleno - Campinas",
-    "description": "Somos a Árbore Engenharia, uma empresa do setor de construção civil e incorporação, que se destaca por sua atuação inovadora e comprometida com a excelência e qualidade na entrega.Com uma base sólida em nossos valores, buscamos construir mais do que obras — criamos conexões e oportunidades que impactam positivamente a vida das pessoas.Nossos valores são responsáveis por sermos quem somos e termos chegado tão longe, são eles:&nbsp;Relacionamento&nbsp;que une;&nbsp;Respeito&nbsp;que fortalece;&nbsp;Boas práticas&nbsp;que geram resultados;&nbsp;Obstinação&nbsp;que inspira;&nbsp;Atitudes&nbsp;que transformam;&nbsp;Equipe&nbsp;maravilhosa.💚🍃💚Você tem paixão por transformar dados em decisões inteligentes? Estamos procurando um(a) Analista de Dados Pleno para atuar de forma estratégica na modelagem, análise e construção de dashboards e indicadores que apoiem a evolução dos nossos processos e resultados.💚🍃💚Responsabilidades e atribuiçõesIntegrar e tratar dados de diversas fontes (ERP, CRM, Excel, BI), estruturando bases seguras e eficientes.Criar dashboards e KPIs estratégicos e operacionais usando Power BI e Excel.Realizar análises de dados para apoiar projetos de melhoria contínua e identificar oportunidades de otimização.Conduzir diagnósticos quantitativos e apresentar insights claros às áreas de negócio.Monitorar a qualidade e consistência dos dados e apoiar a criação de regras de governança.Requisitos e qualificaçõesO que buscamos em você:Formação superior completa em Engenharia, Estatística, Administração, Sistemas de Informação ou áreas correlatas.Excel avançado.Domínio de Power BI e/ou ferramentas similares de Business Intelligence.Conhecimento em linguagens de consulta e automação de processos (SQL, DAX).Experiência com modelagem de dados e processos ETL.Boa comunicação para apresentação de resultados e insights estratégicos.Você vai se destacar se tiver:Olhar crítico e analítico para propor melhorias.Proatividade e habilidade para atuar com diferentes áreas simultaneamente.Interesse em participar de uma jornada de transformação cultural baseada em dados e inovação.Informações adicionais🎯&nbsp;Benefícios que valorizam o seu dia a dia!💳&nbsp;Vale Refeição ou Alimentação – R$31,80 por diaVocê escolhe: alimentação ou refeição, com liberdade para equilibrar suas necessidades com praticidade e bem-estar.☕&nbsp;Café da Manhã Todos os DiasComece o dia com energia! Disponibilizamos café da manhã para tornar suas manhãs mais leves e produtivas.🚍&nbsp;Vale Transporte ou Auxílio CombustívelVocê escolhe a melhor forma de se locomover!E mais: oferecemos&nbsp;estacionamento&nbsp;no local para colaboradores.🩺&nbsp;Convênio MédicoPlano de saúde&nbsp;sem coparticipação e totalmente sem custo&nbsp;para o colaborador no plano inicial. Acesso fácil e de qualidade à saúde.😁&nbsp;Convênio OdontológicoCuidado completo com a sua saúde bucal, com ampla rede de atendimento.🛡️&nbsp;Seguro de VidaSegurança e tranquilidade para você e sua família.🏋️&nbsp;TotalPassAcesso a academias, estúdios e programas de bem-estar em todo o Brasil. Incentivo real à sua qualidade de vida!&nbsp;🕒&nbsp;Jornada de TrabalhoSegunda a quinta: 08h às 18h e&nbsp;Sextas-feiras: 08h às 17h📍 Modelo&nbsp;presencial, com sede em&nbsp;São Paulo – SP.",
-    "careerPageId": 56609,
-    "careerPageName": "Árbore Vagas",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/24526/career/56609/images/2022-06-20_15-24_logo.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-10T18:08:04.764Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Campinas",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://arborevagas.gupy.io/job/eyJqb2JJZCI6OTQ5ODgxMCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://arborevagas.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9484412,
-    "companyId": 551,
-    "name": "Engenheiro de Dados Sênior",
-    "description": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo. Desenvolvemos soluções que conectam inovação, eficiência e progresso em setores essenciais como administração pública, telecomunicações &amp; mídia, energia &amp; utilities, indústria &amp; consumo, saúde e finanças.Aqui, você encontra um ambiente que valoriza a autonomia, a colaboração e o crescimento contínuo, com projetos desafiadores e oportunidades reais de desenvolvimento.Nosso jeito de serInovamos com propósitoCrescemos com responsabilidadeValorizamos a diversidade e quem transformaValoresInovação, conexão, confiança e antecipação de futuroSe você busca desafios com significado, a Minsait é o seu lugar!Responsabilidades e atribuiçõesDesenvolver e implementar pipelines de ingestão de dados escaláveis e eficientes utilizando serviços do Azure, como Azure Data Factory, Azure Event Hubs e Azure Databricks;Projetar e otimizar processos de preparação de dados para garantir qualidade, integridade e performance dos dados;Colaborar com equipes multidisciplinares para entender requisitos de negócio e traduzi-los em soluções técnicas robustas;Realizar a integração de fontes de dados heterogêneas, incluindo bancos de dados SQL e NoSQL, APIs e Data Lake;Garantir a segurança e conformidade dos dados durante todo o ciclo de vida, incluindo a implementação de políticas de acesso e governança de dados;Executar pipelines de ingestão e preparação de dados em esteiras CI/CD para garantir a entrega contínua e automatizada de dados confiáveis para as aplicações e sistemas de negócio.Requisitos e qualificaçõesRequisitos Obrigatórios:Experiência comprovada em Engenharia de Dados, com foco em ingestão e preparação de dados;Proficiência em serviços de dados do Azure (Azure Data Factory, Azure Databricks, Azure Event Hubs, Azure Synapse Analytics e Azure Data Lake Storage);Conhecimento avançado em linguagens de programação como Python, SQL e/ou Scala para desenvolvimento de pipelines e manipulação de dados;Experiência em modelagem de dados e arquitetura de dados em ambientes de Nuvem;Capacidade de trabalhar de forma colaborativa em equipes ágeis, comunicando efetivamente com Stakeholders técnicos e não técnicos.Soft Skills:Excelente Comunicação: Capacidade de transmitir ideias de forma clara e eficaz, tanto verbalmente quanto por escrito. Perfis comunicativos e extrovertidos;Proatividade: Iniciativa para identificar oportunidades e resolver problemas antes que se tornem críticos;Autonomia: Habilidade para trabalhar de forma independente, tomando decisões informadas e assumindo responsabilidade pelos resultados.Mentalidade&nbsp;de&nbsp;Dono: Envolvimento e comprometimento com os objetivos do banco, agindo como se fosse o proprietário do negócio.Informações adicionaisTRABALHE NA MINSAITModelo de contratação CLT.Plano de Saúde subsidiado pela empresa para o titular.Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.Assistência Odontológica (opcional).Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.Vale Refeição ou Vale Alimentação.Vale Transporte (opcional).Impact &amp; Care - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.Gympass - Wellhub (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 29,90 descontado em folha de pagamento).Opção de inclusão de dependentes no Gympass - Wellhub (até 03 dependentes - pago via cartão de crédito).Acesso a Udemy de forma pela nossa intranet.Parcerias com grandes marcas de consumo.Convênio com o SESC para titular e dependentes.Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas/Certificadoras.Seguro de vida em grupo.&nbsp;Nosso compromisso com a diversidade é um elemento-chave da nossa cultura:&nbsp;Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.&nbsp;Todas as nossas vagas são abertas também para PCDs.&nbsp;Somos aproximadamente 50k Minsaiters no Mundo, sendo cerca de 7k no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.&nbsp;Você atuará no nosso time em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.&nbsp;Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait&nbsp;Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.&nbsp;Venha ser um Minsaiter!",
-    "careerPageId": 71488,
-    "careerPageName": "Minsait an Indra Company",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/551/career/71488/images/2025-04-15_16-25_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-10T13:38:02.566Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://minsait.gupy.io/job/eyJqb2JJZCI6OTQ4NDQxMiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://minsait.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9491001,
@@ -9545,52 +8832,6 @@
     "careerPageUrl": "https://bancotopazio.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
-    "id": 9484411,
-    "companyId": 551,
-    "name": "Engenheiro de Dados Sênior",
-    "description": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo. Desenvolvemos soluções que conectam inovação, eficiência e progresso em setores essenciais como administração pública, telecomunicações &amp; mídia, energia &amp; utilities, indústria &amp; consumo, saúde e finanças.Aqui, você encontra um ambiente que valoriza a autonomia, a colaboração e o crescimento contínuo, com projetos desafiadores e oportunidades reais de desenvolvimento.Nosso jeito de serInovamos com propósitoCrescemos com responsabilidadeValorizamos a diversidade e quem transformaValoresInovação, conexão, confiança e antecipação de futuroSe você busca desafios com significado, a Minsait é o seu lugar!Responsabilidades e atribuiçõesResponsabilidades / AtribuiçõesDesenhar, construir e manter pipelines de dados eficientes, escaláveis e resilientes, suportando as necessidades de tomada de decisão da organização.Desenvolver e manter fluxos de ingestão, transformação e entrega de dados, garantindo integridade, qualidade e atualização constante das informações.Colaborar com analistas, cientistas de dados e equipes de negócio para entender demandas e transformar requisitos em soluções técnicas eficazes.Modelar dados estruturados e não estruturados, assegurando organização, governança e consistência.Implementar processos de validação, auditoria e monitoramento contínuo para garantir a qualidade dos dados.Investigar e resolver problemas de performance, falhas e inconsistências nos pipelines, agindo de forma preventiva para evitar recorrências.Documentar processos, fluxos e regras de negócio para garantir transparência e facilitar a manutenção.Participar ativamente de reuniões técnicas e alinhamentos com stakeholders, comunicando progresso, riscos e limitações.Adaptar-se rapidamente a novos contextos e tecnologias, demonstrando iniciativa para aprendizado contínuo.Requisitos e qualificaçõesRequisitos / QualificaçõesTécnicosExperiência sólida na construção e manutenção de pipelines de dados em ambientes dinâmicos, preferencialmente no setor financeiro.Conhecimento avançado em linguagens e ferramentas de ETL, processamento de dados batch e streaming.Experiência com modelagem de dados estruturados e não estruturados, governança e qualidade de dados.Familiaridade com ferramentas e plataformas em nuvem (Azure, AWS, etc.).Habilidade em SQL avançado e linguagens como Python, PySpark e Scala.Conhecimento em monitoramento, validação e auditoria de dados.Informações adicionaisTRABALHE NA MINSAITModelo de contratação CLT.Plano de Saúde subsidiado pela empresa para o titular.Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.Assistência Odontológica (opcional).Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.Vale Refeição ou Vale Alimentação.Vale Transporte (opcional).Impact &amp; Care - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.Gympass - Wellhub (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 29,90 descontado em folha de pagamento).Opção de inclusão de dependentes no Gympass - Wellhub (até 03 dependentes - pago via cartão de crédito).Acesso a Udemy de forma pela nossa intranet.Parcerias com grandes marcas de consumo.Convênio com o SESC para titular e dependentes.Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas/Certificadoras.Seguro de vida em grupo.&nbsp;Nosso compromisso com a diversidade é um elemento-chave da nossa cultura:&nbsp;Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.&nbsp;Todas as nossas vagas são abertas também para PCDs.&nbsp;Somos aproximadamente 50k Minsaiters no Mundo, sendo cerca de 7k no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.&nbsp;Você atuará no nosso time em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.&nbsp;Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait&nbsp;Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.&nbsp;Venha ser um Minsaiter!",
-    "careerPageId": 71488,
-    "careerPageName": "Minsait an Indra Company",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/551/career/71488/images/2025-04-15_16-25_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-08T21:00:08.490Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://minsait.gupy.io/job/eyJqb2JJZCI6OTQ4NDQxMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://minsait.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9483828,
-    "companyId": 551,
-    "name": "Engenheiro de Dados",
-    "description": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo. Desenvolvemos soluções que conectam inovação, eficiência e progresso em setores essenciais como administração pública, telecomunicações &amp; mídia, energia &amp; utilities, indústria &amp; consumo, saúde e finanças.Aqui, você encontra um ambiente que valoriza a autonomia, a colaboração e o crescimento contínuo, com projetos desafiadores e oportunidades reais de desenvolvimento.Nosso jeito de serInovamos com propósitoCrescemos com responsabilidadeValorizamos a diversidade e quem transformaValoresInovação, conexão, confiança e antecipação de futuroSe você busca desafios com significado, a Minsait é o seu lugar!Responsabilidades e atribuiçõesResponsabilidades / AtribuiçõesDesenvolver, orquestrar e manter pipelines de dados (ETL) eficientes para diferentes fontes e destinos.Otimizar a performance dos pipelines de dados, garantindo processamento rápido e escalável.Assegurar a integridade, qualidade e consistência dos dados ao longo de todo o fluxo de processamento.Trabalhar com modelagem dimensional para suportar análises e relatórios.Atuar tanto com processamento de dados em batch quanto em streaming, garantindo a entrega contínua e confiável de dados.Colaborar com equipes de engenharia, análise e negócios para entender necessidades e transformar requisitos em soluções técnicas.Requisitos e qualificaçõesRequisitos / QualificaçõesConhecimento avançado em SQL, com capacidade para realizar consultas complexas e otimização de bancos de dados.Experiência sólida em modelagem dimensional e design de data warehouse.Domínio avançado em linguagens de programação Python (incluindo PySpark) e Scala.Vivência comprovada em ambientes de nuvem, especialmente Azure e AWS.Experiência prática com ferramentas e frameworks de processamento de dados em batch e streaming.Habilidade para trabalhar com orquestração de pipelines e ferramentas relacionadas (ex: Apache Airflow, Azure Data Factory, etc).Capacidade analítica para identificar gargalos e otimizar processos de ETL.Informações adicionaisTRABALHE NA MINSAITModelo de contratação CLT.Plano de Saúde subsidiado pela empresa para o titular.Opção de inclusão de dependentes no Plano de Saúde com desconto em folha de pagamento.Assistência Odontológica (opcional).Opção de inclusão de dependentes no Plano de Assistência Odontológica com desconto em folha de pagamento.Vale Refeição ou Vale Alimentação.Vale Transporte (opcional).Impact &amp; Care - Programa de Orientação Pessoal que visa oferecer suporte emocional e aconselhamento com orientação confidencial nas áreas psicológica, jurídica, financeira, social e pet sem custo para titular e dependentes legais.Gympass - Wellhub (Acesso a mais de 700 academias em todo o Brasil com planos a partir de R$ 29,90 descontado em folha de pagamento).Opção de inclusão de dependentes no Gympass - Wellhub (até 03 dependentes - pago via cartão de crédito).Acesso a Udemy de forma pela nossa intranet.Parcerias com grandes marcas de consumo.Convênio com o SESC para titular e dependentes.Convênios para descontos com instituições de ensino (graduação e pós-graduação) e escola de idiomas/Certificadoras.Seguro de vida em grupo.&nbsp;Nosso compromisso com a diversidade é um elemento-chave da nossa cultura:&nbsp;Igualdade de oportunidades, respeito pelas pessoas e não discriminação são princípios de atuação para todos os profissionais da Minsait. Integramos o Bloomberg Gender-Equality Index (GEI) 2021 em termos de diversidade e igualdade de gênero.&nbsp;Todas as nossas vagas são abertas também para PCDs.&nbsp;Somos aproximadamente 50k Minsaiters no Mundo, sendo cerca de 7k no Brasil e estamos presentes nas maiores empresas em todos os setores. Nossa estrutura permite participar de projetos globais e proporciona um ambiente colaborativo que nos certifica em GreatPlacesToWork e planos diferenciados para Jovens Profissionais também reconhecidos pela Employers for Youth.&nbsp;Você atuará no nosso time em um projeto estratégico, utilizando metodologias ágeis e em um ambiente de inovação.&nbsp;Buscamos profissionais com senso de dono, comprometidos com o sucesso do nosso cliente e com o desenvolvimento da sua carreira dentro da Minsait&nbsp;Você será um pilar fundamental nos melhores e maiores projetos de TI do Brasil e em nível global.&nbsp;Venha ser um Minsaiter!",
-    "careerPageId": 71488,
-    "careerPageName": "Minsait an Indra Company",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/551/career/71488/images/2025-04-15_16-25_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-08T20:54:06.955Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://minsait.gupy.io/job/eyJqb2JJZCI6OTQ4MzgyOCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://minsait.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
     "id": 9488321,
     "companyId": 17527,
     "name": "Engenheiro de Dados Sr | GCP | Setor Bancário | Home-Office - SP | ",
@@ -9612,52 +8853,6 @@
     "disabilities": false,
     "workplaceType": "remote",
     "careerPageUrl": "https://luminiitsolutions.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9482034,
-    "companyId": 37459,
-    "name": "Analista de Technology (Proteção de Dados)",
-    "description": "O que somosA Galapagos Capital é uma&nbsp;companhia de investimentos global,&nbsp;com soluções financeiras interconectadas para você, sua família e seu negócio.Investment Banking,&nbsp;onde criamos soluções de crédito e M&amp;A de forma flexível, simples e eficiente, adaptadas às necessidades de nossos clientes. É fácil fazer negócio com a gente!Asset Management,&nbsp;onde nosso time de analistas seniores realiza análises contínuas e minuciosas do mercado adaptadas ao cenário econômico global, que norteiam as estratégias de investimentos para soluções financeiras mais assertivas aos portfólios dos nossos clientes. Aliando performance com resiliência!Wealth Management, onde promovemos o acesso mais transparente e eficiente ao mercado de capitais, aprimorando a forma de fazer banking, através da criação de produtos exclusivos e da expertise de profissionais com mais de 30 anos de mercado em gestão de patrimônio e riscos. Evoluímos o seu jeito de investir!&nbsp;Nossa missãoAcreditamos no&nbsp;poder transformador&nbsp;do mercado financeiro&nbsp;que une, de forma eficiente, quem precisa de crédito e quem tem capital para investir. Num mercado bastante concentrado e dominado por grandes bancos, como o brasileiro, o potencial para essa transformação é imenso. A Galapagos Capital quer liderar esse processo. Adotamos um jeito disruptivo de fazer banking: sem agências e sem a utilização de balanço.Por ser&nbsp;inovadora, leve e criativa, a Galapagos reúne a capacidade de originar, estruturar e alocar operações de crédito de maneira que nossos clientes possam usufruir desses rendimentos de forma rentável e com pouca volatilidade. Desse jeito, ajudamos empresas e pessoas a terem acesso a crédito de forma competitiva e transformamos esses créditos em soluções de investimento -&nbsp;tudo dentro de casa.A evolução na forma de fazer Banking&nbsp;- Somos mais eficientes, mais ágeis e, principalmente, oferecemos resultados muito melhores para nossos clientes. É para isso que a Galapagos nasceu: para ajudar o mercado financeiro a evoluir, alcançando seu potencial e beneficiando milhões de brasileiros.Saiba mais sobre a Galapagos:&nbsp;http://galapagoscapital.com/Responsabilidades e atribuiçõesProfissional será responsável por garantir a conformidade com legislações globais de proteção de dados e por fortalecer a postura de segurança da organização.No seu dia a dia?Apoiar e monitorar a conformidade com a LGPD, GDPR e demais normas aplicáveis à proteção de dados;Elaborar, revisar e acompanhar a implementação de políticas internas, normativos e procedimentos relacionados à privacidade e proteção de dados;Conduzir avaliações de impacto à proteção de dados pessoais (DPIA/LIA);Analisar contratos para validar cláusulas de privacidade e proteção de dados;Atuar em projetos de novos produtos, serviços e processos, aplicando os princípios de Privacy by Design e Privacy by Default;Apoiar a gestão e atualização do Relatório de Operações de Tratamento (ROPA) e Relatório de Impacto (RIPD);Realizar treinamentos e campanhas de conscientização sobre privacidade e proteção de dados;Apoiar o atendimento de direitos dos titulares, garantindo resposta adequada às solicitações;Participar da gestão de incidentes de segurança envolvendo dados pessoais, incluindo investigação e comunicação à ANPD e aos titulares;Interagir com áreas como Jurídico, TI, Segurança da Informação, Compliance e Produto, promovendo uma cultura organizacional voltada à proteção de dados;Monitorar atualizações regulatórias e tendências de mercado em privacidade e segurança da informação.Requisitos e qualificaçõesO que esperamos de vocêFormação superior em Direito, Tecnologia da Informação, Engenharia, Administração ou áreas correlatas;Experiência mínima de 3 anos nas áreas de privacidade, proteção de dados, segurança da informação ou compliance;Conhecimento sólido da LGPD, GDPR e demais legislações pertinentes;Vivência na elaboração de políticas, análise de contratos e avaliações de impacto;Conhecimento de frameworks como ISO 27001, NIST, entre outros (diferencial);Certificações desejáveis: CIPP/E, CIPM, CDPO, EXIN DPO, ISO 27001, entre outras;Excelentes habilidades de comunicação verbal e escrita;Perfil analítico, proativo, com foco em gestão de riscos e resolução de problemas;Inglês fluente.Informações adicionaisBenefíciosSalário Fixo;PLR Própria;Assistência Médica;Assistência Odontológica;Vale Alimentação e Vale Refeição;Vale Transporte.",
-    "careerPageId": 76801,
-    "careerPageName": "Galapagos Capital",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/37459/career/76801/images/2022-06-22_17-54_logo.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-08T00:43:49.605Z",
-    "applicationDeadline": "2025-09-06T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://galapagoscapital.gupy.io/job/eyJqb2JJZCI6OTQ4MjAzNCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://galapagoscapital.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9481050,
-    "companyId": 71317,
-    "name": "Analista de Dados Pleno",
-    "description": "Trabalhar na MedSênior é sentir-se cuidado.É viver o propósito do bem envelhecer, construindo uma cultura inspiradora junto aos valores que acreditamos.Somos uma empresa em movimento e, a nossa expansão, é oportunidade constante para todos. Juntos, somos Bem+.Estamos em 7 estados e com planos de expansão, quer juntar-se a esse nosso propósito?💡 Conheça mais sobre os cargos e candidate-se. Nossas vagas também são validas ao público PCD.#MedSênior&nbsp;#vagas&nbsp;#hiring&nbsp;#oportunidades&nbsp;#tecnologia&nbsp;#saúde&nbsp;#contratando&nbsp;📌 Importante: não efetuamos cobranças de taxas em nossos processos seletivos.Responsabilidades e atribuiçõesCriar e executar consultas em banco de dados (SQL Server), API’s e outras fontes; Realizar a manutenção de relatórios e dashboards no Power BI; Desenvolver visualizações interativas em Power BI, Tableau, etc.; Mapear, confeccionar e evoluir KPIs e análises, gerando insights estratégicos para diferentes áreas; Coletar e manipular as bases disponibilizadas pelos diversos sistemas/fontes, gerando análises e garantindo a qualidade;Mapear requisitos de relatórios com as áreas de negócio; Mapear requisitos de dados com a área técnica de dados; Identificar padrões, tendências e oportunidades;Implementar scripts e processos para maior eficiência.Requisitos e qualificaçõesSuperior em Estatística, Matemática, Sistema de informação, ou áreas afins;Experiência sólida na elaboração de relatórios e dashboards; Desejável experiência na área da saúde; Conhecimento em administração de DW;Conhecimento em Pacote Office, Power BI, T-SQL, DAX e Python para análise de dados;Perfil analítico para interpretar grandes volumes de dados, capacidade para resolver problemas complexos e pensamento crítico para identificar padrões e tendências;Boa comunicação e didática para traduzir conceitos técnicos para públicos de diferentes áreas.Informações adicionaisTicket alimentação, Gympass, acolhimento psicológico, folga aniversário e muito mais.",
-    "careerPageId": 173755,
-    "careerPageName": "MedSênior",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/71317/career/173755/images/2024-10-04_17-41_companyLogoUrl.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-07T20:35:37.614Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "Vitória",
-    "state": "Espírito Santo",
-    "country": "Brasil",
-    "jobUrl": "https://medsenior.gupy.io/job/eyJqb2JJZCI6OTQ4MTA1MCwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://medsenior.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9232176,
@@ -9704,29 +8899,6 @@
     "disabilities": true,
     "workplaceType": "hybrid",
     "careerPageUrl": "https://cruzeirodosul.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9271201,
-    "companyId": 26603,
-    "name": "Engenheiro de Dados Sênior (ML Ops)",
-    "description": "A VOLL nasceu para simplificar a mobilidade com uma solução única e global. É a tecnologia mais usada pelas maiores empresas do Brasil parar gerir o deslocamento e as viagens das suas equipes.&nbsp;&nbsp;Que tal fazer parte disso tudo?Buscamos pessoas com vontade de revolucionar a maneira como os profissionais se movimentam pelo mundo!Responsabilidades e atribuiçõesO que você irá fazer:Automatizar pipelines de IA: trabalhar junto aos cientistas de dados para orquestrar o ciclo completo de treinamento, retreinamento e deploy de modelos de machine learning, garantindo que as etapas sejam efetuadas de forma automática e escalável.Disponibilizar modelos via API: desenvolver e manter endpoints que exponham os algoritmos criados pelo time de Data Science, de maneira que consumidores internos (equipe de Produto, KPIs, aplicações) consigam requisitar previsões em tempo real ou batch.Monitoramento e melhoria contínua: acompanhar o desempenho dos pipelines e dos modelos em produção (log, métricas, erros), identificar bugs ou degradações de performance e, em conjunto com os cientistas de dados, implementar correções e aprimoramentos.Integração de APIs: consumir dados de APIs externas (parceiros, fontes públicas, sistemas internos) e, quando necessário, construir APIs próprias para exportação de algoritmos, mantendo documentação clara (Swagger/OpenAPI) e garantindo versionamento adequado.Garantir padrões de segurança e escalabilidade: aplicar boas práticas de governança de dados, segurança de credenciais e controle de acesso em ambientes de nuvem (GCP e AWS), além de dimensionar recursos conforme a demanda dos pipelines de IA.Requisitos e qualificaçõesRequisitos :Experiência avançada com BigQuery e Cloud Storage;Domínio de Vertex AI ( criação de pipelines de treinamento, deployment de endpoints, utilização de AutoML ou custom training );Conhecimentos para expor modelos em produção via SageMaker (endpoints, pipelines de treinamento, monitoramento de drift);Domínio de programação em Python para desenvolvimento de scripts de ETL, automação de tarefas e criação de APIs (FastAPI, Flask ou equivalente);Domínio no desenvolvimento com Docker (criando Dockerfiles otimizados) e Kubernetes ou Google Kubernetes Engine (GKE) para deploy de aplicações e microserviços;Conhecimentos no desenvolvimento de pipelines de integração contínua e entrega contínua (Cloud Build, GitHub Actions, Jenkins ou similares);Desenvolvimento e consumo de APIs RESTful;Habilidade em versionamento de endpoints e documentação automática (Swagger/OpenAPI);Conhecimento em ferramentas de versionamento de modelos (MLflow, DVC ou equivalents).Experiências/Perfil:Formação em Ciência da Computação, Engenharia da Computação, Engenharia de Software, Sistemas de Informação, Estatística ou área correlata.Experiência em projetos de Data Engineering ou MLOps, com entrega de soluções de machine learning em produção.Vivência em construção de pipelines de dados para IA, desde a ingestão até a disponibilização de APIs de inferência.Experiência colaborando com Cientistas de Dados, entendendo requisitos de algoritmos e traduzindo-os em pipelines de produção.Capacidade de comunicação clara com times de Ciência de Dados e Produto para entender requisitos, reportar status e alinhar prioridades; pró‐atividade para antecipar gargalos e propor soluções; organização para gerenciar múltiplos pipelines concorrentes.Certificações (desejável, mas não mandatória): Google Cloud Certified – Machine Learning Engineer.Informações adicionais😍&nbsp;Nosso pacote de benefícios:&nbsp;Vale-refeição/alimentação no cartão Flash;Plano Médico e Odontológico Sulamérica;Total Pass e Gympass;Auxílio home office no cartão Flash;Auxílio à saúde mental (VOLL Care);Auxílio educação através do (VOLL Education);Seguro de vida em grupo;Licença-maternidade de 6 meses;Licença-paternidade de 20 dias (Nossa política de licença parental é igualmente aplicável a casais homoafetivos).Férias a partir de 6 meses;Day off.Diversidade na VollAqui na VOLL valorizamos cada pessoa e sua singularidade e oferecemos um ambiente que respeita as, diversidades e individualidades. Aqui damos espaço para que você possa ser você mesmo #JuntosNoMesmoBarco. 🥰",
-    "careerPageId": 60697,
-    "careerPageName": "VOLL",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/26603/career/60697/images/2022-04-12_21-03_logo.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-07-04T17:59:40.359Z",
-    "applicationDeadline": "2025-09-05T00:00:00.000Z",
-    "isRemoteWork": true,
-    "city": "",
-    "state": "",
-    "country": "Brasil",
-    "jobUrl": "https://voll.gupy.io/job/eyJqb2JJZCI6OTI3MTIwMSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "remote",
-    "careerPageUrl": "https://voll.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9371823,
@@ -10233,29 +9405,6 @@
     "disabilities": true,
     "workplaceType": "hybrid",
     "careerPageUrl": "https://vemsersparker.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9335249,
-    "companyId": 68154,
-    "name": "Analista de BI e Dados",
-    "description": "Buscamos um&nbsp;Analista de B.I e Dados&nbsp;para compor nosso time!Somos conteúdo em forma de experiência.Planejamos, captamos, promovemos, construímos e executamos projetos esportivos, culturais e sociais em todo o Brasil, para todas as idades e propósitos.Somos a maior produtora de eventos esportivos da América Latina.Tem sinergia com este ambiente, venha fazer parte!Responsabilidades e atribuiçõesO que te espera neste desafio:Criação e gestão de automações: desenvolver e manter automações que otimizem os fluxos de trabalho e o monitoramento da área de dados e BI.Alimentação de dashboards de tráfego pago: atualizar e garantir a integridade de todos os painéis utilizados no acompanhamento e análise das campanhas de mídia paga (Meta Ads, Google Ads, Globo Ads e outras plataformas).Gestão de tagueamento de sites: criar, implementar e monitorar tagueamentos (Google Tag Manager, pixels, UTMs e outras tags necessárias) para garantir a correta coleta de dados do site.Exportação de dados via SQL: realizar consultas e extração de dados do banco espelho, com foco na geração de relatórios e alimentação de dashboards estratégicos.Painel de concorrência: alimentar e atualizar o painel que monitora e compara a performance de concorrentes diretos.Painel de criativos de concorrência: acompanhar e registrar os criativos (anúncios e peças) utilizados pelos concorrentes em suas campanhas de tráfego pago.Gestão de campanhas de pop-ups: administrar campanhas de pop-ups no site, incluindo segmentação, configuração, acompanhamento de performance e otimização.Requisitos e qualificaçõesExperiências necessárias nas áreas de:Experiência comprovada em análise e manipulação de dadosDomínio de ferramentas de visualização de dados (ex.: Google Data Studio, Power BI, Looker Studio)Experiência em consultas e extração de dados via SQLSólidos conhecimentos em Google Tag Manager, gestão de pixels e UTMsFamiliaridade com plataformas de mídia paga (Meta Ads, Google Ads, Globo Ads)Experiência com ferramentas de automação de marketing e/ou scripts personalizadosAtenção a detalhes e foco em qualidade de dadosDesejávelConhecimentos básicos de Python ou R para automações de análiseExperiência com painéis de benchmarking e inteligência de mercadoFamiliaridade com ferramentas de gestão de pop-ups e personalização de siteCapacidade de estruturar e documentar processos de dados e BICompetências:Senso do DonoSenso de PrioridadeEscuta AtivaResolução de ProblemasInovaçãoProatividade e iniciativaVisão analítica e orientação para resultadosOrganização e capacidade de gestão de múltiplos fluxos de trabalhoBoa comunicação e colaboração com times multidisciplinaresFlexibilidade e adaptabilidade para lidar com ambientes dinâmicosInformações adicionaisPosição 100% presencial para região do Bairro do Limão - São Paulo - SP#venhafazerparte",
-    "careerPageId": 164042,
-    "careerPageName": "Norte Marketing",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/68154/career/164042/images/2023-09-08_18-22_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-06-10T20:40:56.336Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://nortemkt.gupy.io/job/eyJqb2JJZCI6OTMzNTI0OSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": false,
-    "workplaceType": "on-site",
-    "careerPageUrl": "https://nortemkt.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9332180,
@@ -10992,29 +10141,6 @@
     "disabilities": false,
     "workplaceType": "on-site",
     "careerPageUrl": "https://vagasconfidenciais011.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 9018416,
-    "companyId": 82405,
-    "name": "Pessoa Engenheira de Dados Sênior ",
-    "description": "O que nos move diariamente?Viabilizamos momentos únicos e transformadores viajando de Bus.E sabe como a gente faz isso?Mais do que construir a maior plataforma de marketplace de passagens rodoviárias, estamos trabalhando para que as pessoas possam estar presentes onde querem e precisam e, principalmente, para viabilizar aquela viagem a mais, aquela viagem que as pessoas nem imaginavam que seria possível acontecer.Porque a gente sabe que não basta vislumbrar apenas a chegada ao destino. O nosso papel é viabilizar momentos únicos e transformadores, impactando positivamente a vida de milhões de pessoas.#DeUmBus #VemPraBus #GoBusNossa Cultura e ValoresValores Da BusRespeito: Somos empáticos e não abrimos mão da integridade e respeito mútuo. Sempre contribuímos com feedbacks construtivos para potencializar o crescimento pessoal e profissional dos nossos colegas. Compartilhamos conhecimento e comemoramos o sucesso uns dos outros.Inovação: Somos inquietos e sempre questionamos o status quo. Experimentamos novas ideias e abordagens, agimos e reagimos rapidamente visando sempre o impacto positivo no negócio, mesmo que isso envolva riscos ou incertezas e somos flexíveis o suficiente para mudar de direção quando necessário.Colaboração Efetiva: Somos um time de alta performance e acreditamos que atuamos melhor juntos, sempre buscando colaborar, co-criar e nos desafiar. Somos assertivos, escutamos de forma ativa, considerando os feedbacks recebidos e garantimos que nossa fala tenha clareza e objetividade. Damos visibilidade ao que é importante e estamos sempre trocando ideias uns com os outros.Ownership: Assumimos o compromisso pelos resultados finais, nos comportamos como donos do negócio, mesmo quando a atividade não está diretamente relacionada às nossas atribuições. Valorizamos a excelência em tudo que fazemos e nos sentimos responsáveis pelo sucesso ou insucesso dos projetos e da ClickBus como um todo.Responsabilidades e atribuiçõesVocê Irá:Realizar levantamento e especificação funcional de demandas de dados (Data Products, ETL/ELT, Views, etc);Gerenciar projetos de desenvolvimento de estrutura de dados junto a equipe, fornecedores externos e usuários internos, conduzindo a comunicação e relacionamento com todos os stakeholders usando rituais/processos ágeis baseados nos frameworks/metodologias Scrum e Kanban;Executar processos de qualidade para validação de dados;Desenvolver estruturas relacionadas a transferência, manutenção e leitura de dados como&nbsp;Data Warehouse (DW), Business Intelligence (BI),&nbsp;Lake House, ETL/ELT, store procedures, views, triggers, tabelas, etc.Requisitos e qualificaçõesEsses são os itens que não podem faltar na sua bagagem:Conhecimento em Python e SQL avançados;Conhecimento de serviços da AWS (S3, RedShift, Athena, EMR, Glue, EKS, ECS, Fargate, SQS, SNS, Lambda, Kinesis), Apache Hudi ou IceBerg, Apache Kafka, Spark/EMR e Git/GitHub;&nbsp;Orquestração de workflows de pipelines usando Airflow;&nbsp;Conhecimento em conceitos Lakehouse e Mesh;Conhecimento em construção e integração de APIs;Criação de pipelines de CI/CD usando GitHub Actions;Infrastructure As Code (Terraform).&nbsp;Informações adicionaisBenefíciosTudo Aqui é Menos Sobre \"onde\" e Mais Sobre \"como\" As Relações Acontecem. Mesmo Espalhados Por Todo o Brasil, Trabalhamos De Forma Próxima e Integrada. Na Bus, Você Encontra Os Melhores Benefícios Para Você e Sua Familía. Dê Um Bus Com Esses Benefícios:Alimentação: R$1.000,00/mês creditado no cartão Flash (Benefícios Flexíveis) para utilização no formato VR ou VA;Vale Home Office: R$141,16/Mês creditado no cartão Flash (Benefícios Flexíveis);Benefício Flexíveis: R$200,00/Mês creditado no cartão Flash (Benefícios Flexíveis)Busonauta Viajante: Nosso benefício exclusivo para pessoas Busonautas, são R$2.000,00/Ano para utilizar nas compras de passagens rodoviárias no APP ou SITE;Vale transporte: Conforme necessidadeAssistência Médica SulAmérica: Extensivo a dependentes legais (filhos e cônjuge) sem coparticipação e sem mensalidade;Assistência Odontológica SulAmérica: Opcional sendo extensivo a dependentes legais e agregados.Auxílio Creche para mamães e papais;Licença Maternidade de 06 meses e Licença Paternidade de 30 dias;Seguro de Vida;Gympass: Tenha acesso a mais de 50 mil academias espalhadas pelo Brasil;TotalPass: Mais de 5 mil academias disponíveis, incluindo toda rede Smart Fit e Bio Ritmo no Brasil;Bônus ICP: Nosso Incentivo de Curto Prazo;Day OFF de aniversário;Convênio Pet;Auxílio Farmácia;Convênio com Sesc e parceria com o Senac.",
-    "careerPageId": 207681,
-    "careerPageName": "ClickBus",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/82405/career/207681/images/2025-04-24_16-24_companyLogoUrl.png",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2025-04-24T17:07:09.771Z",
-    "applicationDeadline": "2025-09-08T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://clickbus.gupy.io/job/eyJqb2JJZCI6OTAxODQxNiwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": false
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://clickbus.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   },
   {
     "id": 9002227,
